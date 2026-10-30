@@ -1,0 +1,770 @@
+[
+  {
+    "suite": "precision",
+    "id": 0,
+    "name": "tube_target_material_select_3",
+    "instruction": "pick up the tube and insert it into the black rubber hole base"
+  },
+  {
+    "suite": "precision",
+    "id": 1,
+    "name": "key_target_material_select_3",
+    "instruction": "pick up the key and insert it into the blue plastic lock"
+  },
+  {
+    "suite": "precision",
+    "id": 2,
+    "name": "hdmi_target_material_select_3",
+    "instruction": "pick up the connector and insert it into the orange port"
+  },
+  {
+    "suite": "precision",
+    "id": 3,
+    "name": "gear_target_material_select_3",
+    "instruction": "pick up the gear and insert it into the white painted base"
+  },
+  {
+    "suite": "precision",
+    "id": 4,
+    "name": "tactile_power_insertion",
+    "instruction": "insert the three-prong power plug into the power socket"
+  },
+  {
+    "suite": "precision",
+    "id": 5,
+    "name": "tactile_bulb_insertion",
+    "instruction": "insert the bulb into the bulb socket"
+  },
+  {
+    "suite": "recog",
+    "id": 0,
+    "name": "select_m16_nut_from_covered_tray",
+    "instruction": "pick the larger M16 nut instead of the M8 nut from the covered tray, judging size by touch"
+  },
+  {
+    "suite": "recog",
+    "id": 1,
+    "name": "select_golf_ball_by_touch_in_bin",
+    "instruction": "retrieve the dimpled golf ball rather than the smooth ball from the covered bin using touch"
+  },
+  {
+    "suite": "recog",
+    "id": 2,
+    "name": "retrieve_toothed_service_token_from_toolbox",
+    "instruction": "Explore the covered compartment tray by touch, find the service token with the sawtooth edge, and place it on the rubber service mat."
+  },
+  {
+    "suite": "recog",
+    "id": 3,
+    "name": "select_horizontal_ribbed_cap_by_touch",
+    "instruction": "Among the caps in the covered recycling tray, find the cap with horizontal ribs—not vertical ribs—and place it in the recycle cup."
+  },
+  {
+    "suite": "recog",
+    "id": 4,
+    "name": "select_golf_ball_by_touch",
+    "instruction": "Explore the two balls by touch, identify the dimpled golf ball rather than the smooth table-tennis ball, and place it in the left cup."
+  },
+  {
+    "suite": "recog",
+    "id": 5,
+    "name": "select_cylinder_with_most_circumferential_threads",
+    "instruction": "Among the six equal-size cylinders in the open parts box, find the one with the most circumferential threads and place it on the inspection tray."
+  },
+  {
+    "suite": "recog",
+    "id": 6,
+    "name": "select_wave_service_token",
+    "instruction": "Among the tokens in the covered compartment tray, find the one with the wave-shaped edge and place it on the rubber service mat."
+  },
+  {
+    "suite": "recog",
+    "id": 7,
+    "name": "select_horizontal_ribbed_cap_into_bowl",
+    "instruction": "Among the three caps on the table, use touch to find the cap with horizontal ribs and place it in the bowl."
+  },
+  {
+    "suite": "recog",
+    "id": 8,
+    "name": "tactile_peg_reorientation",
+    "instruction": "pick up the horizontal rectangular peg from the box bottom, lift it vertically, and insert it"
+  },
+  {
+    "suite": "recog",
+    "id": 9,
+    "name": "tactile_object_search",
+    "instruction": "find and retrieve the target object from the box using tactile feedback"
+  },
+  {
+    "suite": "recog",
+    "id": 10,
+    "name": "tactile_ball_sorting",
+    "instruction": "distinguish the golf ball from the table tennis ball by touch and lift the golf ball"
+  },
+  {
+    "suite": "dynamic",
+    "id": 0,
+    "name": "insert_the_held_power_plug_into_the_moving_socket",
+    "instruction": "Insert the three-prong power plug already held by the gripper into the power socket on the moving conveyor platform"
+  },
+  {
+    "suite": "dynamic",
+    "id": 1,
+    "name": "insert_the_held_bulb_into_the_moving_socket",
+    "instruction": "Insert the bulb already held by the gripper into the bulb socket on the moving conveyor platform"
+  },
+  {
+    "suite": "dynamic",
+    "id": 2,
+    "name": "insert_the_held_usb_plug_into_the_moving_socket",
+    "instruction": "Insert the USB plug already held by the gripper into the USB socket on the moving conveyor platform"
+  },
+  {
+    "suite": "dynamic",
+    "id": 3,
+    "name": "pick_table_tube_and_insert_into_moving_fixture",
+    "instruction": "Pick the test tube from the table and insert it into the angled hole base mounted on the conveyor platform"
+  },
+  {
+    "suite": "dynamic",
+    "id": 4,
+    "name": "pick_tube_from_moving_source_and_insert_into_table_fixture",
+    "instruction": "Pick the test tube from the moving source base and insert it into the angled hole base on the table"
+  },
+  {
+    "suite": "dynamic",
+    "id": 5,
+    "name": "pick_table_key_and_insert_into_moving_fixture",
+    "instruction": "Pick the key from the table and insert it into the target lock mounted on the conveyor platform"
+  },
+  {
+    "suite": "dynamic",
+    "id": 6,
+    "name": "pick_key_from_moving_source_and_insert_into_table_fixture",
+    "instruction": "Pick the key from the moving source lock and insert it into the target lock on the table"
+  },
+  {
+    "suite": "dynamic",
+    "id": 7,
+    "name": "pick_table_hdmi_and_insert_into_moving_fixture",
+    "instruction": "Pick the HDMI connector from the table and insert it into the HDMI slot mounted on the conveyor platform"
+  },
+  {
+    "suite": "dynamic",
+    "id": 8,
+    "name": "pick_hdmi_from_moving_source_and_insert_into_table_fixture",
+    "instruction": "Pick the HDMI connector and insert it into the HDMI slot on the table"
+  },
+  {
+    "suite": "dynamic",
+    "id": 9,
+    "name": "pick_table_gear_and_insert_into_moving_fixture",
+    "instruction": "Pick the gear from the table and press it into the gear base mounted on the conveyor platform"
+  },
+  {
+    "suite": "dynamic",
+    "id": 10,
+    "name": "pick_gear_from_moving_source_and_insert_into_table_fixture",
+    "instruction": "Pick the gear and press it into the gear base on the table"
+  },
+  {
+    "suite": "extra",
+    "id": 0,
+    "name": "pull_drawer",
+    "instruction": "Pull the drawer open by at least 12 cm."
+  },
+  {
+    "suite": "extra",
+    "id": 1,
+    "name": "open_hinged_door",
+    "instruction": "Grasp the handle and open the hinged door by at least 60 degrees."
+  },
+  {
+    "suite": "extra",
+    "id": 2,
+    "name": "turn_valve",
+    "instruction": "Turn the valve counterclockwise by 90 degrees relative to its initial angle."
+  },
+  {
+    "suite": "extra",
+    "id": 3,
+    "name": "press_spring_button",
+    "instruction": "Press the spring button at least 8 mm for 0.3 seconds, then release it."
+  },
+  {
+    "suite": "extra",
+    "id": 4,
+    "name": "toggle_bistable_switch",
+    "instruction": "Move the bistable lever from the negative well to the positive well, then let go."
+  },
+  {
+    "suite": "extra",
+    "id": 5,
+    "name": "remove_friction_cap",
+    "instruction": "Pull the cap completely out of its spring-loaded retaining shoes and move it away by at least 3 cm."
+  },
+  {
+    "suite": "extra",
+    "id": 6,
+    "name": "follow_rigid_contour",
+    "instruction": "Follow the thin sinusoidal rail from its left end to its right end while maintaining tactile contact."
+  },
+  {
+    "suite": "extra",
+    "id": 7,
+    "name": "table_supported_pivot",
+    "instruction": "Pivot the block upright by 90 degrees while keeping it supported by the table and allowing rotation within the gripper."
+  },
+  {
+    "suite": "extra",
+    "id": 8,
+    "name": "slice_banana",
+    "instruction": "Use the knife held in the gripper to cut the banana at its middle scored plane, and lift the blade clear while leaving both portions on the board."
+  },
+  {
+    "suite": "extra",
+    "id": 9,
+    "name": "slice_cucumber",
+    "instruction": "Use the knife held in the gripper to cut the cucumber at its middle scored plane, and lift the blade clear while leaving both portions on the board."
+  },
+  {
+    "suite": "extra",
+    "id": 10,
+    "name": "push_block_along_s_curve",
+    "instruction": "Push the block along the complete S-shaped path while maintaining tactile and tabletop contact."
+  },
+  {
+    "suite": "extra",
+    "id": 11,
+    "name": "roll_can_half_turn",
+    "instruction": "Roll the can through half a turn along the table without sliding or lifting it."
+  },
+  {
+    "suite": "extra",
+    "id": 12,
+    "name": "drive_passive_gear_transmission",
+    "instruction": "Turn the medium gear by ninety degrees so that both passive output gears rotate through their required angles."
+  },
+  {
+    "suite": "extra",
+    "id": 13,
+    "name": "hang_mug_by_handle",
+    "instruction": "Lift the mug, thread its handle over the hook, lower it, and release it so that the hook supports its weight."
+  },
+  {
+    "suite": "extra",
+    "id": 14,
+    "name": "arrest_gravity_driven_axial_slip",
+    "instruction": "Lift the rod, hold the hand still, allow a twenty millimeter downward slip, then tighten the fingers to arrest it without regrasping."
+  },
+  {
+    "suite": "extra",
+    "id": 15,
+    "name": "stand_rod_on_table",
+    "instruction": "Pick up the horizontal rod near its center, orient it upright, place its flat end beside the cradle, then release and retreat while it stands unsupported."
+  },
+  {
+    "suite": "extra",
+    "id": 16,
+    "name": "press_then_slide_latch",
+    "instruction": "Grasp the raised latch grip, depress its spring-loaded lug below the keeper, slide it clear along the rail, then release and retreat while the plunger returns."
+  },
+  {
+    "suite": "extra",
+    "id": 17,
+    "name": "inspect_and_localize_raised_defect",
+    "instruction": "Briefly touch each of the three inspection coupons, lifting clear between probes. Then indicate the raised defect with a steady final gel contact."
+  },
+  {
+    "suite": "extra",
+    "id": 18,
+    "name": "reseat_keyed_ram_module",
+    "instruction": "Withdraw the RAM module at least 2 cm, reinsert its keyed edge, then release it and retreat."
+  },
+  {
+    "suite": "extra",
+    "id": 19,
+    "name": "wipe_bottle",
+    "instruction": "Grasp the cloth-wrapped sponge, wipe the dirt from the floral porcelain vase secured in its cradle, then lift the sponge clear."
+  },
+  {
+    "suite": "extra",
+    "id": 20,
+    "name": "wipe_whiteboard",
+    "instruction": "Grasp the felt eraser, erase the TacMind lettering from the rectangular whiteboard, then lift the eraser clear."
+  },
+  {
+    "suite": "extra",
+    "id": 21,
+    "name": "assembly_bulb",
+    "instruction": "Grasp the light bulb and screw it fully into the socket."
+  },
+  {
+    "suite": "extra",
+    "id": 22,
+    "name": "assembly_nut_thread",
+    "instruction": "Grasp the nut and thread it fully onto the bolt."
+  },
+  {
+    "suite": "extra",
+    "id": 23,
+    "name": "cutting_dice",
+    "instruction": "Grasp the knife and dice the tomato at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 24,
+    "name": "cutting_dice_potato",
+    "instruction": "Grasp the knife and dice the potato at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 25,
+    "name": "cutting_slice",
+    "instruction": "Grasp the knife and cut the carrot at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 26,
+    "name": "cutting_slice_baguette_1",
+    "instruction": "Grasp the knife and cut the baguette at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 27,
+    "name": "cutting_slice_baguette_2",
+    "instruction": "Grasp the knife and cut the baguette at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 28,
+    "name": "cutting_slice_banana",
+    "instruction": "Grasp the knife and cut the banana at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 29,
+    "name": "cutting_slice_banana_2",
+    "instruction": "Grasp the knife and cut the banana at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 30,
+    "name": "cutting_slice_banana_5",
+    "instruction": "Grasp the knife and cut the banana at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 31,
+    "name": "cutting_slice_bread_loaf",
+    "instruction": "Grasp the knife and cut the bread loaf at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 32,
+    "name": "cutting_slice_carrot_1",
+    "instruction": "Grasp the knife and cut the carrot at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 33,
+    "name": "cutting_slice_carrot_purple",
+    "instruction": "Grasp the knife and cut the purple carrot at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 34,
+    "name": "cutting_slice_chili",
+    "instruction": "Grasp the knife and cut the chili at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 35,
+    "name": "cutting_slice_corn",
+    "instruction": "Grasp the knife and cut the corn at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 36,
+    "name": "cutting_slice_cucumber_2",
+    "instruction": "Grasp the knife and cut the cucumber at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 37,
+    "name": "cutting_slice_cucumber_3",
+    "instruction": "Grasp the knife and cut the cucumber at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 38,
+    "name": "cutting_slice_cucumber_5",
+    "instruction": "Grasp the knife and cut the cucumber at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 39,
+    "name": "cutting_slice_cucumber_6",
+    "instruction": "Grasp the knife and cut the cucumber at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 40,
+    "name": "cutting_slice_cucumber_7",
+    "instruction": "Grasp the knife and cut the cucumber at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 41,
+    "name": "cutting_slice_cucumber_pickling",
+    "instruction": "Grasp the knife and cut the pickling cucumber at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 42,
+    "name": "cutting_slice_eggplant_1",
+    "instruction": "Grasp the knife and cut the eggplant at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 43,
+    "name": "cutting_slice_garlic_bread",
+    "instruction": "Grasp the knife and cut the garlic bread at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 44,
+    "name": "cutting_slice_lotus_root",
+    "instruction": "Grasp the knife and cut the lotus root at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 45,
+    "name": "cutting_slice_okra",
+    "instruction": "Grasp the knife and cut the okra at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 46,
+    "name": "cutting_slice_parsnip",
+    "instruction": "Grasp the knife and cut the parsnip at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 47,
+    "name": "cutting_slice_sweet_potato",
+    "instruction": "Grasp the knife and cut the sweet potato at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 48,
+    "name": "cutting_slice_zucchini_1",
+    "instruction": "Grasp the knife and cut the zucchini at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 49,
+    "name": "cutting_slice_zucchini_2",
+    "instruction": "Grasp the knife and cut the zucchini at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 50,
+    "name": "cutting_slice_zucchini_yellow",
+    "instruction": "Grasp the knife and cut the yellow zucchini at every scored plane."
+  },
+  {
+    "suite": "extra",
+    "id": 51,
+    "name": "puzzle_classify_objects",
+    "instruction": "Sort all blocks into the matching color zones."
+  },
+  {
+    "suite": "extra",
+    "id": 52,
+    "name": "puzzle_coffee",
+    "instruction": "Load the coffee machine, place the cup under the spout, and press the button to brew coffee into the cup."
+  },
+  {
+    "suite": "extra",
+    "id": 53,
+    "name": "puzzle_push_shapes",
+    "instruction": "Push each shape into its matching recess without lifting it."
+  },
+  {
+    "suite": "extra",
+    "id": 54,
+    "name": "puzzle_stack_blocks",
+    "instruction": "Stack every block into one aligned, stable tower on the target pad."
+  },
+  {
+    "suite": "extra",
+    "id": 55,
+    "name": "tube_target_material_select_2",
+    "instruction": "pick up the tube and insert it into the orange plastic hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 56,
+    "name": "tube_target_material_select_1",
+    "instruction": "pick up the tube and insert it into the yellow plastic hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 57,
+    "name": "tube_target_position_select_3",
+    "instruction": "pick up the tube and insert it into the right hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 58,
+    "name": "tube_target_position_select_2",
+    "instruction": "pick up the tube and insert it into the middle hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 59,
+    "name": "tube_target_position_select_1",
+    "instruction": "pick up the tube and insert it into the left hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 60,
+    "name": "tube_material_select_3",
+    "instruction": "pick up the black rubber tube and insert it into the hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 61,
+    "name": "tube_material_select_2",
+    "instruction": "pick up the orange plastic tube and insert it into the hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 62,
+    "name": "tube_material_select_1",
+    "instruction": "pick up the yellow plastic tube and insert it into the hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 63,
+    "name": "tube_position_select_3",
+    "instruction": "pick up the right tube and insert it into the hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 64,
+    "name": "tube_position_select_2",
+    "instruction": "pick up the middle tube and insert it into the hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 65,
+    "name": "tube_position_select_1",
+    "instruction": "pick up the left tube and insert it into the hole base"
+  },
+  {
+    "suite": "extra",
+    "id": 66,
+    "name": "key_target_material_select_2",
+    "instruction": "pick up the key and insert it into the red plastic lock"
+  },
+  {
+    "suite": "extra",
+    "id": 67,
+    "name": "key_target_material_select_1",
+    "instruction": "pick up the key and insert it into the brass lock"
+  },
+  {
+    "suite": "extra",
+    "id": 68,
+    "name": "key_target_position_select_3",
+    "instruction": "pick up the key and insert it into the right lock"
+  },
+  {
+    "suite": "extra",
+    "id": 69,
+    "name": "key_target_position_select_2",
+    "instruction": "pick up the key and insert it into the middle lock"
+  },
+  {
+    "suite": "extra",
+    "id": 70,
+    "name": "key_target_position_select_1",
+    "instruction": "pick up the key and insert it into the left lock"
+  },
+  {
+    "suite": "extra",
+    "id": 71,
+    "name": "key_material_select_3",
+    "instruction": "pick up the key from the blue plastic source lock and insert it into the target lock"
+  },
+  {
+    "suite": "extra",
+    "id": 72,
+    "name": "key_material_select_2",
+    "instruction": "pick up the key from the red plastic source lock and insert it into the target lock"
+  },
+  {
+    "suite": "extra",
+    "id": 73,
+    "name": "key_material_select_1",
+    "instruction": "pick up the key from the brass source lock and insert it into the target lock"
+  },
+  {
+    "suite": "extra",
+    "id": 74,
+    "name": "key_position_select_3",
+    "instruction": "pick up the right key and insert it into the lock"
+  },
+  {
+    "suite": "extra",
+    "id": 75,
+    "name": "key_position_select_2",
+    "instruction": "pick up the middle key and insert it into the lock"
+  },
+  {
+    "suite": "extra",
+    "id": 76,
+    "name": "key_position_select_1",
+    "instruction": "pick up the left key and insert it into the lock"
+  },
+  {
+    "suite": "extra",
+    "id": 77,
+    "name": "hdmi_target_material_select_2",
+    "instruction": "pick up the connector and insert it into the blue port"
+  },
+  {
+    "suite": "extra",
+    "id": 78,
+    "name": "hdmi_target_material_select_1",
+    "instruction": "pick up the connector and insert it into the black port"
+  },
+  {
+    "suite": "extra",
+    "id": 79,
+    "name": "hdmi_target_position_select_3",
+    "instruction": "pick up the connector and insert it into the right port"
+  },
+  {
+    "suite": "extra",
+    "id": 80,
+    "name": "hdmi_target_position_select_2",
+    "instruction": "pick up the connector and insert it into the middle port"
+  },
+  {
+    "suite": "extra",
+    "id": 81,
+    "name": "hdmi_target_position_select_1",
+    "instruction": "pick up the connector and insert it into the left port"
+  },
+  {
+    "suite": "extra",
+    "id": 82,
+    "name": "hdmi_material_select_3",
+    "instruction": "pick up the orange connector and insert it into the port"
+  },
+  {
+    "suite": "extra",
+    "id": 83,
+    "name": "hdmi_material_select_2",
+    "instruction": "pick up the blue connector and insert it into the port"
+  },
+  {
+    "suite": "extra",
+    "id": 84,
+    "name": "hdmi_material_select_1",
+    "instruction": "pick up the black connector and insert it into the port"
+  },
+  {
+    "suite": "extra",
+    "id": 85,
+    "name": "hdmi_position_select_3",
+    "instruction": "pick up the right connector and insert it into the port"
+  },
+  {
+    "suite": "extra",
+    "id": 86,
+    "name": "hdmi_position_select_2",
+    "instruction": "pick up the middle connector and insert it into the port"
+  },
+  {
+    "suite": "extra",
+    "id": 87,
+    "name": "hdmi_position_select_1",
+    "instruction": "pick up the left connector and insert it into the port"
+  },
+  {
+    "suite": "extra",
+    "id": 88,
+    "name": "gear_target_material_select_2",
+    "instruction": "pick up the gear and insert it into the painted green base"
+  },
+  {
+    "suite": "extra",
+    "id": 89,
+    "name": "gear_target_material_select_1",
+    "instruction": "pick up the gear and insert it into the steel base"
+  },
+  {
+    "suite": "extra",
+    "id": 90,
+    "name": "gear_target_position_select_3",
+    "instruction": "pick up the gear and insert it into the right base"
+  },
+  {
+    "suite": "extra",
+    "id": 91,
+    "name": "gear_target_position_select_2",
+    "instruction": "pick up the gear and insert it into the middle base"
+  },
+  {
+    "suite": "extra",
+    "id": 92,
+    "name": "gear_target_position_select_1",
+    "instruction": "pick up the gear and insert it into the left base"
+  },
+  {
+    "suite": "extra",
+    "id": 93,
+    "name": "gear_material_select_3",
+    "instruction": "pick up the white painted gear and insert it into the base"
+  },
+  {
+    "suite": "extra",
+    "id": 94,
+    "name": "gear_material_select_2",
+    "instruction": "pick up the painted green gear and insert it into the base"
+  },
+  {
+    "suite": "extra",
+    "id": 95,
+    "name": "gear_material_select_1",
+    "instruction": "pick up the steel gear and insert it into the base"
+  },
+  {
+    "suite": "extra",
+    "id": 96,
+    "name": "gear_position_select_3",
+    "instruction": "pick up the right gear and insert it into the base"
+  },
+  {
+    "suite": "extra",
+    "id": 97,
+    "name": "gear_position_select_2",
+    "instruction": "pick up the middle gear and insert it into the base"
+  },
+  {
+    "suite": "extra",
+    "id": 98,
+    "name": "gear_position_select_1",
+    "instruction": "pick up the left gear and insert it into the base"
+  },
+  {
+    "suite": "extra",
+    "id": 99,
+    "name": "tactile_medium_gear_insertion",
+    "instruction": "pick up the medium gear and insert it onto the matching shaft of the gear base"
+  }
+]

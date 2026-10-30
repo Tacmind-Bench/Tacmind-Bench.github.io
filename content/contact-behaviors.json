@@ -1,0 +1,68 @@
+[
+  {
+    "id": "grasping",
+    "label": "Grasping",
+    "description": "Grasp and lift the target golf ball.",
+    "example": {"suite": "recog", "id": 10, "name": "tactile_ball_sorting"}
+  },
+  {
+    "id": "pressing",
+    "label": "Pressing",
+    "description": "Press, hold, and release a spring button.",
+    "example": {"suite": "extra", "id": 3, "name": "press_spring_button"}
+  },
+  {
+    "id": "pushing",
+    "label": "Pushing",
+    "description": "Push a block along an S-shaped path.",
+    "example": {"suite": "extra", "id": 10, "name": "push_block_along_s_curve"}
+  },
+  {
+    "id": "pulling",
+    "label": "Pulling",
+    "description": "Pull a drawer open by its handle.",
+    "example": {"suite": "extra", "id": 0, "name": "pull_drawer"}
+  },
+  {
+    "id": "sliding",
+    "label": "Sliding",
+    "description": "Slide a depressed latch along its rail.",
+    "example": {"suite": "extra", "id": 16, "name": "press_then_slide_latch"}
+  },
+  {
+    "id": "rotating",
+    "label": "Rotating",
+    "description": "Turn a valve through a quarter turn.",
+    "example": {"suite": "extra", "id": 2, "name": "turn_valve"}
+  },
+  {
+    "id": "rolling",
+    "label": "Rolling",
+    "description": "Roll a can without sliding or lifting it.",
+    "example": {"suite": "extra", "id": 11, "name": "roll_can_half_turn"}
+  },
+  {
+    "id": "inserting",
+    "label": "Inserting",
+    "description": "Insert a power plug into its socket.",
+    "example": {"suite": "precision", "id": 4, "name": "tactile_power_insertion"}
+  },
+  {
+    "id": "cutting",
+    "label": "Cutting",
+    "description": "Cut a banana with a held knife.",
+    "example": {"suite": "extra", "id": 8, "name": "slice_banana"}
+  },
+  {
+    "id": "wiping",
+    "label": "Wiping",
+    "description": "Wipe lettering from a whiteboard with an eraser.",
+    "example": {"suite": "extra", "id": 20, "name": "wipe_whiteboard"}
+  },
+  {
+    "id": "probing",
+    "label": "Probing",
+    "description": "Touch and lift between samples to locate a raised defect.",
+    "example": {"suite": "extra", "id": 17, "name": "inspect_and_localize_raised_defect"}
+  }
+]

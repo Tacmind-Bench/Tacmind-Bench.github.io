@@ -1,0 +1,1894 @@
+{
+  "precision:0": {
+    "src": "assets/videos/precision000.mp4",
+    "frames": 199,
+    "fps": 20.0,
+    "duration": 9.95,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/precision000.mp4",
+      "wrist": "assets/videos/precision000-wrist.mp4",
+      "rgb": "assets/videos/precision000-rgb.mp4",
+      "marker": "assets/videos/precision000-marker.mp4",
+      "deformation": "assets/videos/precision000-deformation.mp4"
+    }
+  },
+  "precision:1": {
+    "src": "assets/videos/precision001.mp4",
+    "frames": 243,
+    "fps": 20.0,
+    "duration": 12.15,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/precision001.mp4",
+      "wrist": "assets/videos/precision001-wrist.mp4",
+      "rgb": "assets/videos/precision001-rgb.mp4",
+      "marker": "assets/videos/precision001-marker.mp4",
+      "deformation": "assets/videos/precision001-deformation.mp4"
+    }
+  },
+  "precision:2": {
+    "src": "assets/videos/precision002.mp4",
+    "frames": 153,
+    "fps": 20.0,
+    "duration": 7.65,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/precision002.mp4",
+      "wrist": "assets/videos/precision002-wrist.mp4",
+      "rgb": "assets/videos/precision002-rgb.mp4",
+      "marker": "assets/videos/precision002-marker.mp4",
+      "deformation": "assets/videos/precision002-deformation.mp4"
+    }
+  },
+  "precision:3": {
+    "src": "assets/videos/precision003.mp4",
+    "frames": 149,
+    "fps": 20.0,
+    "duration": 7.45,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/precision003.mp4",
+      "wrist": "assets/videos/precision003-wrist.mp4",
+      "rgb": "assets/videos/precision003-rgb.mp4",
+      "marker": "assets/videos/precision003-marker.mp4",
+      "deformation": "assets/videos/precision003-deformation.mp4"
+    }
+  },
+  "precision:4": {
+    "src": "assets/videos/precision004.mp4",
+    "frames": 183,
+    "fps": 20.0,
+    "duration": 9.15,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/precision004.mp4",
+      "wrist": "assets/videos/precision004-wrist.mp4",
+      "rgb": "assets/videos/precision004-rgb.mp4",
+      "marker": "assets/videos/precision004-marker.mp4",
+      "deformation": "assets/videos/precision004-deformation.mp4"
+    }
+  },
+  "precision:5": {
+    "src": "assets/videos/precision005.mp4",
+    "frames": 411,
+    "fps": 20.0,
+    "duration": 20.55,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/precision005.mp4",
+      "wrist": "assets/videos/precision005-wrist.mp4",
+      "rgb": "assets/videos/precision005-rgb.mp4",
+      "marker": "assets/videos/precision005-marker.mp4",
+      "deformation": "assets/videos/precision005-deformation.mp4"
+    }
+  },
+  "recog:0": {
+    "src": "assets/videos/recog000.mp4",
+    "frames": 271,
+    "fps": 20.0,
+    "duration": 13.55,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog000.mp4",
+      "wrist": "assets/videos/recog000-wrist.mp4",
+      "rgb": "assets/videos/recog000-rgb.mp4",
+      "marker": "assets/videos/recog000-marker.mp4",
+      "deformation": "assets/videos/recog000-deformation.mp4"
+    }
+  },
+  "recog:1": {
+    "src": "assets/videos/recog001.mp4",
+    "frames": 304,
+    "fps": 20.0,
+    "duration": 15.2,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog001.mp4",
+      "wrist": "assets/videos/recog001-wrist.mp4",
+      "rgb": "assets/videos/recog001-rgb.mp4",
+      "marker": "assets/videos/recog001-marker.mp4",
+      "deformation": "assets/videos/recog001-deformation.mp4"
+    }
+  },
+  "recog:2": {
+    "src": "assets/videos/recog002.mp4",
+    "frames": 331,
+    "fps": 20.0,
+    "duration": 16.55,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog002.mp4",
+      "wrist": "assets/videos/recog002-wrist.mp4",
+      "rgb": "assets/videos/recog002-rgb.mp4",
+      "marker": "assets/videos/recog002-marker.mp4",
+      "deformation": "assets/videos/recog002-deformation.mp4"
+    }
+  },
+  "recog:3": {
+    "src": "assets/videos/recog003.mp4",
+    "frames": 353,
+    "fps": 20.0,
+    "duration": 17.65,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog003.mp4",
+      "wrist": "assets/videos/recog003-wrist.mp4",
+      "rgb": "assets/videos/recog003-rgb.mp4",
+      "marker": "assets/videos/recog003-marker.mp4",
+      "deformation": "assets/videos/recog003-deformation.mp4"
+    }
+  },
+  "recog:4": {
+    "src": "assets/videos/recog004.mp4",
+    "frames": 303,
+    "fps": 20.0,
+    "duration": 15.15,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog004.mp4",
+      "wrist": "assets/videos/recog004-wrist.mp4",
+      "rgb": "assets/videos/recog004-rgb.mp4",
+      "marker": "assets/videos/recog004-marker.mp4",
+      "deformation": "assets/videos/recog004-deformation.mp4"
+    }
+  },
+  "recog:5": {
+    "src": "assets/videos/recog005.mp4",
+    "frames": 334,
+    "fps": 20.0,
+    "duration": 16.7,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog005.mp4",
+      "wrist": "assets/videos/recog005-wrist.mp4",
+      "rgb": "assets/videos/recog005-rgb.mp4",
+      "marker": "assets/videos/recog005-marker.mp4",
+      "deformation": "assets/videos/recog005-deformation.mp4"
+    }
+  },
+  "recog:6": {
+    "src": "assets/videos/recog006.mp4",
+    "frames": 250,
+    "fps": 20.0,
+    "duration": 12.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog006.mp4",
+      "wrist": "assets/videos/recog006-wrist.mp4",
+      "rgb": "assets/videos/recog006-rgb.mp4",
+      "marker": "assets/videos/recog006-marker.mp4",
+      "deformation": "assets/videos/recog006-deformation.mp4"
+    }
+  },
+  "recog:7": {
+    "src": "assets/videos/recog007.mp4",
+    "frames": 275,
+    "fps": 20.0,
+    "duration": 13.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog007.mp4",
+      "wrist": "assets/videos/recog007-wrist.mp4",
+      "rgb": "assets/videos/recog007-rgb.mp4",
+      "marker": "assets/videos/recog007-marker.mp4",
+      "deformation": "assets/videos/recog007-deformation.mp4"
+    }
+  },
+  "recog:8": {
+    "src": "assets/videos/recog008.mp4",
+    "frames": 349,
+    "fps": 20.0,
+    "duration": 17.45,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog008.mp4",
+      "wrist": "assets/videos/recog008-wrist.mp4",
+      "rgb": "assets/videos/recog008-rgb.mp4",
+      "marker": "assets/videos/recog008-marker.mp4",
+      "deformation": "assets/videos/recog008-deformation.mp4"
+    }
+  },
+  "recog:9": {
+    "src": "assets/videos/recog009.mp4",
+    "frames": 91,
+    "fps": 20.0,
+    "duration": 4.55,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog009.mp4",
+      "wrist": "assets/videos/recog009-wrist.mp4",
+      "rgb": "assets/videos/recog009-rgb.mp4",
+      "marker": "assets/videos/recog009-marker.mp4",
+      "deformation": "assets/videos/recog009-deformation.mp4"
+    }
+  },
+  "recog:10": {
+    "src": "assets/videos/recog010.mp4",
+    "frames": 258,
+    "fps": 20.0,
+    "duration": 12.9,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/recog010.mp4",
+      "wrist": "assets/videos/recog010-wrist.mp4",
+      "rgb": "assets/videos/recog010-rgb.mp4",
+      "marker": "assets/videos/recog010-marker.mp4",
+      "deformation": "assets/videos/recog010-deformation.mp4"
+    }
+  },
+  "dynamic:0": {
+    "src": "assets/videos/dynamic000.mp4",
+    "frames": 176,
+    "fps": 20.0,
+    "duration": 8.8,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic000.mp4",
+      "wrist": "assets/videos/dynamic000-wrist.mp4",
+      "rgb": "assets/videos/dynamic000-rgb.mp4",
+      "marker": "assets/videos/dynamic000-marker.mp4",
+      "deformation": "assets/videos/dynamic000-deformation.mp4"
+    }
+  },
+  "dynamic:1": {
+    "src": "assets/videos/dynamic001.mp4",
+    "frames": 472,
+    "fps": 20.0,
+    "duration": 23.6,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic001.mp4",
+      "wrist": "assets/videos/dynamic001-wrist.mp4",
+      "rgb": "assets/videos/dynamic001-rgb.mp4",
+      "marker": "assets/videos/dynamic001-marker.mp4",
+      "deformation": "assets/videos/dynamic001-deformation.mp4"
+    }
+  },
+  "dynamic:2": {
+    "src": "assets/videos/dynamic002.mp4",
+    "frames": 228,
+    "fps": 20.0,
+    "duration": 11.4,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic002.mp4",
+      "wrist": "assets/videos/dynamic002-wrist.mp4",
+      "rgb": "assets/videos/dynamic002-rgb.mp4",
+      "marker": "assets/videos/dynamic002-marker.mp4",
+      "deformation": "assets/videos/dynamic002-deformation.mp4"
+    }
+  },
+  "dynamic:3": {
+    "src": "assets/videos/dynamic003.mp4",
+    "frames": 253,
+    "fps": 20.0,
+    "duration": 12.65,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic003.mp4",
+      "wrist": "assets/videos/dynamic003-wrist.mp4",
+      "rgb": "assets/videos/dynamic003-rgb.mp4",
+      "marker": "assets/videos/dynamic003-marker.mp4",
+      "deformation": "assets/videos/dynamic003-deformation.mp4"
+    }
+  },
+  "dynamic:4": {
+    "src": "assets/videos/dynamic004.mp4",
+    "frames": 264,
+    "fps": 20.0,
+    "duration": 13.2,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic004.mp4",
+      "wrist": "assets/videos/dynamic004-wrist.mp4",
+      "rgb": "assets/videos/dynamic004-rgb.mp4",
+      "marker": "assets/videos/dynamic004-marker.mp4",
+      "deformation": "assets/videos/dynamic004-deformation.mp4"
+    }
+  },
+  "dynamic:5": {
+    "src": "assets/videos/dynamic005.mp4",
+    "frames": 291,
+    "fps": 20.0,
+    "duration": 14.55,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic005.mp4",
+      "wrist": "assets/videos/dynamic005-wrist.mp4",
+      "rgb": "assets/videos/dynamic005-rgb.mp4",
+      "marker": "assets/videos/dynamic005-marker.mp4",
+      "deformation": "assets/videos/dynamic005-deformation.mp4"
+    }
+  },
+  "dynamic:6": {
+    "src": "assets/videos/dynamic006.mp4",
+    "frames": 355,
+    "fps": 20.0,
+    "duration": 17.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic006.mp4",
+      "wrist": "assets/videos/dynamic006-wrist.mp4",
+      "rgb": "assets/videos/dynamic006-rgb.mp4",
+      "marker": "assets/videos/dynamic006-marker.mp4",
+      "deformation": "assets/videos/dynamic006-deformation.mp4"
+    }
+  },
+  "dynamic:7": {
+    "src": "assets/videos/dynamic007.mp4",
+    "frames": 271,
+    "fps": 20.0,
+    "duration": 13.55,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic007.mp4",
+      "wrist": "assets/videos/dynamic007-wrist.mp4",
+      "rgb": "assets/videos/dynamic007-rgb.mp4",
+      "marker": "assets/videos/dynamic007-marker.mp4",
+      "deformation": "assets/videos/dynamic007-deformation.mp4"
+    }
+  },
+  "dynamic:8": {
+    "src": "assets/videos/dynamic008.mp4",
+    "frames": 299,
+    "fps": 20.0,
+    "duration": 14.95,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic008.mp4",
+      "wrist": "assets/videos/dynamic008-wrist.mp4",
+      "rgb": "assets/videos/dynamic008-rgb.mp4",
+      "marker": "assets/videos/dynamic008-marker.mp4",
+      "deformation": "assets/videos/dynamic008-deformation.mp4"
+    }
+  },
+  "dynamic:9": {
+    "src": "assets/videos/dynamic009.mp4",
+    "frames": 268,
+    "fps": 20.0,
+    "duration": 13.4,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic009.mp4",
+      "wrist": "assets/videos/dynamic009-wrist.mp4",
+      "rgb": "assets/videos/dynamic009-rgb.mp4",
+      "marker": "assets/videos/dynamic009-marker.mp4",
+      "deformation": "assets/videos/dynamic009-deformation.mp4"
+    }
+  },
+  "dynamic:10": {
+    "src": "assets/videos/dynamic010.mp4",
+    "frames": 267,
+    "fps": 20.0,
+    "duration": 13.35,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/dynamic010.mp4",
+      "wrist": "assets/videos/dynamic010-wrist.mp4",
+      "rgb": "assets/videos/dynamic010-rgb.mp4",
+      "marker": "assets/videos/dynamic010-marker.mp4",
+      "deformation": "assets/videos/dynamic010-deformation.mp4"
+    }
+  },
+  "extra:0": {
+    "src": "assets/videos/extra000-a576bf344a-external.mp4",
+    "task_name": "pull_drawer",
+    "frames": 153,
+    "fps": 20,
+    "duration": 7.65,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra000-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra000-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra000-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra000-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra000-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:1": {
+    "src": "assets/videos/extra001-a576bf344a-external.mp4",
+    "task_name": "open_hinged_door",
+    "frames": 192,
+    "fps": 20,
+    "duration": 9.600000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra001-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra001-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra001-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra001-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra001-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:2": {
+    "src": "assets/videos/extra002-a576bf344a-external.mp4",
+    "task_name": "turn_valve",
+    "frames": 192,
+    "fps": 20,
+    "duration": 9.600000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra002-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra002-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra002-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra002-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra002-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:3": {
+    "src": "assets/videos/extra003-a576bf344a-external.mp4",
+    "task_name": "press_spring_button",
+    "frames": 140,
+    "fps": 20,
+    "duration": 7.0,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra003-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra003-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra003-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra003-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra003-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:4": {
+    "src": "assets/videos/extra004-a576bf344a-external.mp4",
+    "task_name": "toggle_bistable_switch",
+    "frames": 259,
+    "fps": 20,
+    "duration": 12.950000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra004-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra004-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra004-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra004-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra004-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:5": {
+    "src": "assets/videos/extra005-a576bf344a-external.mp4",
+    "task_name": "remove_friction_cap",
+    "frames": 137,
+    "fps": 20,
+    "duration": 6.8500000000000005,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra005-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra005-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra005-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra005-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra005-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:6": {
+    "src": "assets/videos/extra006-a576bf344a-external.mp4",
+    "task_name": "follow_rigid_contour",
+    "frames": 284,
+    "fps": 20,
+    "duration": 14.200000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra006-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra006-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra006-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra006-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra006-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:7": {
+    "src": "assets/videos/extra007-a576bf344a-external.mp4",
+    "task_name": "table_supported_pivot",
+    "frames": 377,
+    "fps": 20,
+    "duration": 18.85,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra007-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra007-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra007-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra007-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra007-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:8": {
+    "src": "assets/videos/extra008-a576bf344a-external.mp4",
+    "task_name": "slice_banana",
+    "frames": 248,
+    "fps": 20,
+    "duration": 12.4,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra008-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra008-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra008-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra008-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra008-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:9": {
+    "src": "assets/videos/extra009-a576bf344a-external.mp4",
+    "task_name": "slice_cucumber",
+    "frames": 282,
+    "fps": 20,
+    "duration": 14.100000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra009-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra009-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra009-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra009-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra009-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:10": {
+    "src": "assets/videos/extra010-a576bf344a-external.mp4",
+    "task_name": "push_block_along_s_curve",
+    "frames": 237,
+    "fps": 20,
+    "duration": 11.850000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra010-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra010-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra010-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra010-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra010-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:11": {
+    "src": "assets/videos/extra011-a576bf344a-external.mp4",
+    "task_name": "roll_can_half_turn",
+    "frames": 330,
+    "fps": 20,
+    "duration": 16.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra011-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra011-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra011-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra011-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra011-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:12": {
+    "src": "assets/videos/extra012-a576bf344a-external.mp4",
+    "task_name": "drive_passive_gear_transmission",
+    "frames": 849,
+    "fps": 20,
+    "duration": 42.45,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra012-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra012-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra012-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra012-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra012-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:13": {
+    "src": "assets/videos/extra013-a576bf344a-external.mp4",
+    "task_name": "hang_mug_by_handle",
+    "frames": 588,
+    "fps": 20,
+    "duration": 29.400000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra013-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra013-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra013-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra013-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra013-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:14": {
+    "src": "assets/videos/extra014-a576bf344a-external.mp4",
+    "task_name": "arrest_gravity_driven_axial_slip",
+    "frames": 563,
+    "fps": 20,
+    "duration": 28.150000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra014-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra014-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra014-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra014-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra014-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:15": {
+    "src": "assets/videos/extra015-a576bf344a-external.mp4",
+    "task_name": "stand_rod_on_table",
+    "frames": 556,
+    "fps": 20,
+    "duration": 27.8,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra015-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra015-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra015-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra015-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra015-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:16": {
+    "src": "assets/videos/extra016-a576bf344a-external.mp4",
+    "task_name": "press_then_slide_latch",
+    "frames": 492,
+    "fps": 20,
+    "duration": 24.6,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra016-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra016-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra016-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra016-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra016-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:17": {
+    "src": "assets/videos/extra017-a576bf344a-external.mp4",
+    "task_name": "inspect_and_localize_raised_defect",
+    "frames": 365,
+    "fps": 20,
+    "duration": 18.25,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra017-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra017-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra017-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra017-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra017-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:18": {
+    "src": "assets/videos/extra018-a576bf344a-external.mp4",
+    "task_name": "reseat_keyed_ram_module",
+    "frames": 425,
+    "fps": 20,
+    "duration": 21.25,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra018-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra018-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra018-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra018-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra018-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:19": {
+    "src": "assets/videos/extra019-a576bf344a-external.mp4",
+    "task_name": "wipe_bottle",
+    "frames": 534,
+    "fps": 20,
+    "duration": 26.700000000000003,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra019-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra019-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra019-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra019-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra019-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:20": {
+    "src": "assets/videos/extra020-e994c66bf1-external.mp4",
+    "task_name": "wipe_whiteboard",
+    "frames": 563,
+    "fps": 20,
+    "duration": 28.150000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra020-e994c66bf1-external.mp4",
+      "wrist": "assets/videos/extra020-e994c66bf1-wrist.mp4",
+      "rgb": "assets/videos/extra020-e994c66bf1-rgb.mp4",
+      "marker": "assets/videos/extra020-e994c66bf1-marker.mp4",
+      "deformation": "assets/videos/extra020-e994c66bf1-deformation.mp4"
+    }
+  },
+  "extra:21": {
+    "src": "assets/videos/extra021-a576bf344a-external.mp4",
+    "task_name": "assembly_bulb",
+    "frames": 567,
+    "fps": 20,
+    "duration": 28.35,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra021-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra021-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra021-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra021-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra021-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:22": {
+    "src": "assets/videos/extra022-e994c66bf1-external.mp4",
+    "task_name": "assembly_nut_thread",
+    "frames": 842,
+    "fps": 20,
+    "duration": 42.1,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra022-e994c66bf1-external.mp4",
+      "wrist": "assets/videos/extra022-e994c66bf1-wrist.mp4",
+      "rgb": "assets/videos/extra022-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra022-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra022-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:23": {
+    "src": "assets/videos/extra023-a576bf344a-external.mp4",
+    "task_name": "cutting_dice",
+    "frames": 449,
+    "fps": 20,
+    "duration": 22.450000000000003,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra023-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra023-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra023-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra023-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra023-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:24": {
+    "src": "assets/videos/extra024-a576bf344a-external.mp4",
+    "task_name": "cutting_dice_potato",
+    "frames": 588,
+    "fps": 20,
+    "duration": 29.400000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra024-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra024-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra024-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra024-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra024-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:25": {
+    "src": "assets/videos/extra025-a576bf344a-external.mp4",
+    "task_name": "cutting_slice",
+    "frames": 588,
+    "fps": 20,
+    "duration": 29.400000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra025-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra025-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra025-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra025-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra025-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:26": {
+    "src": "assets/videos/extra026-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_baguette_1",
+    "frames": 552,
+    "fps": 20,
+    "duration": 27.6,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra026-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra026-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra026-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra026-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra026-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:27": {
+    "src": "assets/videos/extra027-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_baguette_2",
+    "frames": 523,
+    "fps": 20,
+    "duration": 26.150000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra027-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra027-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra027-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra027-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra027-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:28": {
+    "src": "assets/videos/extra028-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_banana",
+    "frames": 587,
+    "fps": 20,
+    "duration": 29.35,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra028-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra028-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra028-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra028-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra028-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:29": {
+    "src": "assets/videos/extra029-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_banana_2",
+    "frames": 598,
+    "fps": 20,
+    "duration": 29.900000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra029-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra029-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra029-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra029-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra029-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:30": {
+    "src": "assets/videos/extra030-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_banana_5",
+    "frames": 502,
+    "fps": 20,
+    "duration": 25.1,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra030-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra030-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra030-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra030-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra030-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:31": {
+    "src": "assets/videos/extra031-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_bread_loaf",
+    "frames": 516,
+    "fps": 20,
+    "duration": 25.8,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra031-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra031-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra031-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra031-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra031-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:32": {
+    "src": "assets/videos/extra032-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_carrot_1",
+    "frames": 463,
+    "fps": 20,
+    "duration": 23.150000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra032-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra032-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra032-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra032-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra032-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:33": {
+    "src": "assets/videos/extra033-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_carrot_purple",
+    "frames": 486,
+    "fps": 20,
+    "duration": 24.3,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra033-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra033-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra033-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra033-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra033-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:34": {
+    "src": "assets/videos/extra034-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_chili",
+    "frames": 187,
+    "fps": 20,
+    "duration": 9.35,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra034-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra034-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra034-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra034-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra034-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:35": {
+    "src": "assets/videos/extra035-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_corn",
+    "frames": 330,
+    "fps": 20,
+    "duration": 16.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra035-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra035-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra035-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra035-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra035-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:36": {
+    "src": "assets/videos/extra036-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_cucumber_2",
+    "frames": 595,
+    "fps": 20,
+    "duration": 29.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra036-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra036-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra036-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra036-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra036-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:37": {
+    "src": "assets/videos/extra037-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_cucumber_3",
+    "frames": 532,
+    "fps": 20,
+    "duration": 26.6,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra037-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra037-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra037-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra037-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra037-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:38": {
+    "src": "assets/videos/extra038-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_cucumber_5",
+    "frames": 539,
+    "fps": 20,
+    "duration": 26.950000000000003,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra038-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra038-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra038-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra038-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra038-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:39": {
+    "src": "assets/videos/extra039-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_cucumber_6",
+    "frames": 555,
+    "fps": 20,
+    "duration": 27.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra039-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra039-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra039-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra039-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra039-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:40": {
+    "src": "assets/videos/extra040-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_cucumber_7",
+    "frames": 581,
+    "fps": 20,
+    "duration": 29.05,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra040-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra040-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra040-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra040-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra040-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:41": {
+    "src": "assets/videos/extra041-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_cucumber_pickling",
+    "frames": 189,
+    "fps": 20,
+    "duration": 9.450000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra041-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra041-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra041-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra041-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra041-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:42": {
+    "src": "assets/videos/extra042-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_eggplant_1",
+    "frames": 575,
+    "fps": 20,
+    "duration": 28.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra042-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra042-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra042-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra042-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra042-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:43": {
+    "src": "assets/videos/extra043-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_garlic_bread",
+    "frames": 547,
+    "fps": 20,
+    "duration": 27.35,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra043-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra043-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra043-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra043-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra043-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:44": {
+    "src": "assets/videos/extra044-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_lotus_root",
+    "frames": 334,
+    "fps": 20,
+    "duration": 16.7,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra044-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra044-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra044-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra044-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra044-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:45": {
+    "src": "assets/videos/extra045-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_okra",
+    "frames": 187,
+    "fps": 20,
+    "duration": 9.35,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra045-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra045-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra045-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra045-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra045-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:46": {
+    "src": "assets/videos/extra046-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_parsnip",
+    "frames": 539,
+    "fps": 20,
+    "duration": 26.950000000000003,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra046-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra046-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra046-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra046-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra046-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:47": {
+    "src": "assets/videos/extra047-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_sweet_potato",
+    "frames": 532,
+    "fps": 20,
+    "duration": 26.6,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra047-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra047-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra047-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra047-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra047-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:48": {
+    "src": "assets/videos/extra048-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_zucchini_1",
+    "frames": 585,
+    "fps": 20,
+    "duration": 29.25,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra048-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra048-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra048-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra048-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra048-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:49": {
+    "src": "assets/videos/extra049-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_zucchini_2",
+    "frames": 546,
+    "fps": 20,
+    "duration": 27.3,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra049-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra049-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra049-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra049-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra049-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:50": {
+    "src": "assets/videos/extra050-a576bf344a-external.mp4",
+    "task_name": "cutting_slice_zucchini_yellow",
+    "frames": 484,
+    "fps": 20,
+    "duration": 24.200000000000003,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra050-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra050-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra050-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra050-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra050-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:51": {
+    "src": "assets/videos/extra051-e994c66bf1-external.mp4",
+    "task_name": "puzzle_classify_objects",
+    "frames": 563,
+    "fps": 20,
+    "duration": 28.150000000000002,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra051-e994c66bf1-external.mp4",
+      "wrist": "assets/videos/extra051-e994c66bf1-wrist.mp4",
+      "rgb": "assets/videos/extra051-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra051-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra051-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:52": {
+    "src": "assets/videos/extra052-a576bf344a-external.mp4",
+    "task_name": "puzzle_coffee",
+    "frames": 586,
+    "fps": 20,
+    "duration": 29.3,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra052-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra052-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra052-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra052-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra052-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:53": {
+    "src": "assets/videos/extra053-e994c66bf1-external.mp4",
+    "task_name": "puzzle_push_shapes",
+    "frames": 594,
+    "fps": 20,
+    "duration": 29.700000000000003,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra053-e994c66bf1-external.mp4",
+      "wrist": "assets/videos/extra053-e994c66bf1-wrist.mp4",
+      "rgb": "assets/videos/extra053-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra053-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra053-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:54": {
+    "src": "assets/videos/extra054-e994c66bf1-external.mp4",
+    "task_name": "puzzle_stack_blocks",
+    "frames": 577,
+    "fps": 20,
+    "duration": 28.85,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra054-e994c66bf1-external.mp4",
+      "wrist": "assets/videos/extra054-e994c66bf1-wrist.mp4",
+      "rgb": "assets/videos/extra054-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra054-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra054-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:55": {
+    "src": "assets/videos/extra055-a576bf344a-external.mp4",
+    "task_name": "tube_target_material_select_2",
+    "frames": 325,
+    "fps": 20,
+    "duration": 16.25,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra055-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra055-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra055-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra055-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra055-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:56": {
+    "src": "assets/videos/extra056-a576bf344a-external.mp4",
+    "task_name": "tube_target_material_select_1",
+    "frames": 322,
+    "fps": 20,
+    "duration": 16.1,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra056-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra056-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra056-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra056-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra056-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:57": {
+    "src": "assets/videos/extra057-a576bf344a-external.mp4",
+    "task_name": "tube_target_position_select_3",
+    "frames": 324,
+    "fps": 20,
+    "duration": 16.2,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra057-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra057-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra057-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra057-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra057-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:58": {
+    "src": "assets/videos/extra058-a576bf344a-external.mp4",
+    "task_name": "tube_target_position_select_2",
+    "frames": 344,
+    "fps": 20,
+    "duration": 17.2,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra058-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra058-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra058-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra058-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra058-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:59": {
+    "src": "assets/videos/extra059-a576bf344a-external.mp4",
+    "task_name": "tube_target_position_select_1",
+    "frames": 347,
+    "fps": 20,
+    "duration": 17.35,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra059-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra059-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra059-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra059-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra059-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:60": {
+    "src": "assets/videos/extra060-a576bf344a-external.mp4",
+    "task_name": "tube_material_select_3",
+    "frames": 342,
+    "fps": 20,
+    "duration": 17.1,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra060-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra060-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra060-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra060-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra060-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:61": {
+    "src": "assets/videos/extra061-a576bf344a-external.mp4",
+    "task_name": "tube_material_select_2",
+    "frames": 364,
+    "fps": 20,
+    "duration": 18.2,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra061-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra061-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra061-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra061-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra061-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:62": {
+    "src": "assets/videos/extra062-a576bf344a-external.mp4",
+    "task_name": "tube_material_select_1",
+    "frames": 342,
+    "fps": 20,
+    "duration": 17.1,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra062-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra062-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra062-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra062-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra062-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:63": {
+    "src": "assets/videos/extra063-a576bf344a-external.mp4",
+    "task_name": "tube_position_select_3",
+    "frames": 324,
+    "fps": 20,
+    "duration": 16.2,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra063-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra063-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra063-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra063-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra063-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:64": {
+    "src": "assets/videos/extra064-a576bf344a-external.mp4",
+    "task_name": "tube_position_select_2",
+    "frames": 342,
+    "fps": 20,
+    "duration": 17.1,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra064-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra064-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra064-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra064-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra064-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:65": {
+    "src": "assets/videos/extra065-a576bf344a-external.mp4",
+    "task_name": "tube_position_select_1",
+    "frames": 324,
+    "fps": 20,
+    "duration": 16.2,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra065-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra065-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra065-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra065-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra065-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:66": {
+    "src": "assets/videos/extra066-a576bf344a-external.mp4",
+    "task_name": "key_target_material_select_2",
+    "frames": 246,
+    "fps": 20,
+    "duration": 12.3,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra066-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra066-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra066-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra066-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra066-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:67": {
+    "src": "assets/videos/extra067-a576bf344a-external.mp4",
+    "task_name": "key_target_material_select_1",
+    "frames": 265,
+    "fps": 20,
+    "duration": 13.25,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra067-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra067-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra067-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra067-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra067-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:68": {
+    "src": "assets/videos/extra068-a576bf344a-external.mp4",
+    "task_name": "key_target_position_select_3",
+    "frames": 287,
+    "fps": 20,
+    "duration": 14.350000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra068-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra068-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra068-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra068-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra068-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:69": {
+    "src": "assets/videos/extra069-a576bf344a-external.mp4",
+    "task_name": "key_target_position_select_2",
+    "frames": 269,
+    "fps": 20,
+    "duration": 13.450000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra069-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra069-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra069-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra069-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra069-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:70": {
+    "src": "assets/videos/extra070-a576bf344a-external.mp4",
+    "task_name": "key_target_position_select_1",
+    "frames": 246,
+    "fps": 20,
+    "duration": 12.3,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra070-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra070-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra070-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra070-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra070-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:71": {
+    "src": "assets/videos/extra071-a576bf344a-external.mp4",
+    "task_name": "key_material_select_3",
+    "frames": 267,
+    "fps": 20,
+    "duration": 13.350000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra071-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra071-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra071-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra071-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra071-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:72": {
+    "src": "assets/videos/extra072-a576bf344a-external.mp4",
+    "task_name": "key_material_select_2",
+    "frames": 269,
+    "fps": 20,
+    "duration": 13.450000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra072-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra072-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra072-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra072-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra072-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:73": {
+    "src": "assets/videos/extra073-a576bf344a-external.mp4",
+    "task_name": "key_material_select_1",
+    "frames": 251,
+    "fps": 20,
+    "duration": 12.55,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra073-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra073-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra073-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra073-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra073-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:74": {
+    "src": "assets/videos/extra074-a576bf344a-external.mp4",
+    "task_name": "key_position_select_3",
+    "frames": 248,
+    "fps": 20,
+    "duration": 12.4,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra074-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra074-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra074-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra074-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra074-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:75": {
+    "src": "assets/videos/extra075-a576bf344a-external.mp4",
+    "task_name": "key_position_select_2",
+    "frames": 267,
+    "fps": 20,
+    "duration": 13.350000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra075-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra075-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra075-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra075-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra075-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:76": {
+    "src": "assets/videos/extra076-a576bf344a-external.mp4",
+    "task_name": "key_position_select_1",
+    "frames": 269,
+    "fps": 20,
+    "duration": 13.450000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra076-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra076-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra076-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra076-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra076-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:77": {
+    "src": "assets/videos/extra077-a576bf344a-external.mp4",
+    "task_name": "hdmi_target_material_select_2",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra077-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra077-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra077-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra077-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra077-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:78": {
+    "src": "assets/videos/extra078-a576bf344a-external.mp4",
+    "task_name": "hdmi_target_material_select_1",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra078-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra078-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra078-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra078-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra078-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:79": {
+    "src": "assets/videos/extra079-a576bf344a-external.mp4",
+    "task_name": "hdmi_target_position_select_3",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra079-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra079-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra079-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra079-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra079-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:80": {
+    "src": "assets/videos/extra080-a576bf344a-external.mp4",
+    "task_name": "hdmi_target_position_select_2",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra080-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra080-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra080-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra080-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra080-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:81": {
+    "src": "assets/videos/extra081-a576bf344a-external.mp4",
+    "task_name": "hdmi_target_position_select_1",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra081-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra081-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra081-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra081-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra081-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:82": {
+    "src": "assets/videos/extra082-a576bf344a-external.mp4",
+    "task_name": "hdmi_material_select_3",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra082-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra082-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra082-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra082-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra082-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:83": {
+    "src": "assets/videos/extra083-a576bf344a-external.mp4",
+    "task_name": "hdmi_material_select_2",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra083-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra083-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra083-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra083-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra083-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:84": {
+    "src": "assets/videos/extra084-a576bf344a-external.mp4",
+    "task_name": "hdmi_material_select_1",
+    "frames": 174,
+    "fps": 20,
+    "duration": 8.700000000000001,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra084-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra084-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra084-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra084-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra084-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:85": {
+    "src": "assets/videos/extra085-a576bf344a-external.mp4",
+    "task_name": "hdmi_position_select_3",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra085-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra085-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra085-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra085-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra085-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:86": {
+    "src": "assets/videos/extra086-a576bf344a-external.mp4",
+    "task_name": "hdmi_position_select_2",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra086-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra086-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra086-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra086-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra086-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:87": {
+    "src": "assets/videos/extra087-a576bf344a-external.mp4",
+    "task_name": "hdmi_position_select_1",
+    "frames": 155,
+    "fps": 20,
+    "duration": 7.75,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra087-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra087-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra087-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra087-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra087-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:88": {
+    "src": "assets/videos/extra088-a576bf344a-external.mp4",
+    "task_name": "gear_target_material_select_2",
+    "frames": 149,
+    "fps": 20,
+    "duration": 7.45,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra088-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra088-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra088-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra088-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra088-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:89": {
+    "src": "assets/videos/extra089-a576bf344a-external.mp4",
+    "task_name": "gear_target_material_select_1",
+    "frames": 150,
+    "fps": 20,
+    "duration": 7.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra089-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra089-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra089-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra089-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra089-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:90": {
+    "src": "assets/videos/extra090-a576bf344a-external.mp4",
+    "task_name": "gear_target_position_select_3",
+    "frames": 149,
+    "fps": 20,
+    "duration": 7.45,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra090-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra090-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra090-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra090-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra090-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:91": {
+    "src": "assets/videos/extra091-a576bf344a-external.mp4",
+    "task_name": "gear_target_position_select_2",
+    "frames": 150,
+    "fps": 20,
+    "duration": 7.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra091-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra091-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra091-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra091-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra091-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:92": {
+    "src": "assets/videos/extra092-a576bf344a-external.mp4",
+    "task_name": "gear_target_position_select_1",
+    "frames": 148,
+    "fps": 20,
+    "duration": 7.4,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra092-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra092-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra092-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra092-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra092-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:93": {
+    "src": "assets/videos/extra093-a576bf344a-external.mp4",
+    "task_name": "gear_material_select_3",
+    "frames": 150,
+    "fps": 20,
+    "duration": 7.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra093-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra093-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra093-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra093-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra093-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:94": {
+    "src": "assets/videos/extra094-a576bf344a-external.mp4",
+    "task_name": "gear_material_select_2",
+    "frames": 150,
+    "fps": 20,
+    "duration": 7.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra094-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra094-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra094-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra094-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra094-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:95": {
+    "src": "assets/videos/extra095-a576bf344a-external.mp4",
+    "task_name": "gear_material_select_1",
+    "frames": 149,
+    "fps": 20,
+    "duration": 7.45,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra095-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra095-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra095-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra095-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra095-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:96": {
+    "src": "assets/videos/extra096-a576bf344a-external.mp4",
+    "task_name": "gear_position_select_3",
+    "frames": 150,
+    "fps": 20,
+    "duration": 7.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra096-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra096-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra096-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra096-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra096-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:97": {
+    "src": "assets/videos/extra097-a576bf344a-external.mp4",
+    "task_name": "gear_position_select_2",
+    "frames": 149,
+    "fps": 20,
+    "duration": 7.45,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra097-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra097-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra097-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra097-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra097-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:98": {
+    "src": "assets/videos/extra098-a576bf344a-external.mp4",
+    "task_name": "gear_position_select_1",
+    "frames": 150,
+    "fps": 20,
+    "duration": 7.5,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra098-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra098-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra098-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra098-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra098-a576bf344a-deformation.mp4"
+    }
+  },
+  "extra:99": {
+    "src": "assets/videos/extra099-a576bf344a-external.mp4",
+    "task_name": "tactile_medium_gear_insertion",
+    "frames": 149,
+    "fps": 20,
+    "duration": 7.45,
+    "view": "External camera",
+    "views": {
+      "external": "assets/videos/extra099-a576bf344a-external.mp4",
+      "wrist": "assets/videos/extra099-a576bf344a-wrist.mp4",
+      "rgb": "assets/videos/extra099-a576bf344a-rgb.mp4",
+      "marker": "assets/videos/extra099-a576bf344a-marker.mp4",
+      "deformation": "assets/videos/extra099-a576bf344a-deformation.mp4"
+    }
+  }
+}
