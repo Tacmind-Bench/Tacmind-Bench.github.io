@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Paper",
+    "url": null,
+    "icon": "assets/icons/paper.svg"
+  },
+  {
+    "label": "arXiv",
+    "url": null,
+    "icon": "assets/icons/arxiv.svg"
+  },
+  {
+    "label": "ModelScope",
+    "url": "https://modelscope.cn/datasets/shijiaxin/TacMind-Bench",
+    "icon": "assets/icons/modelscope.svg"
+  },
+  {
+    "label": "Hugging Face",
+    "url": "https://huggingface.co/datasets/JiaxinShi/TacMind-Bench",
+    "icon": "assets/icons/huggingface.svg"
+  },
+  {
+    "label": "GitHub",
+    "url": "https://github.com/Tacmind-Bench/TacMind",
+    "icon": "assets/icons/github.svg"
+  }
+]

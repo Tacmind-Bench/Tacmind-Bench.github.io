@@ -1,0 +1,168 @@
+{
+  "scenes": [
+    {
+      "suite": "precision",
+      "id": 0,
+      "title": "Tube insertion",
+      "baseline": "assets/perturbations/precision-identity.webp"
+    },
+    {
+      "suite": "recog",
+      "id": 10,
+      "title": "Ball sorting",
+      "baseline": "assets/perturbations/recog-identity.webp"
+    },
+    {
+      "suite": "dynamic",
+      "id": 9,
+      "title": "Conveyor gear insertion",
+      "baseline": "assets/perturbations/dynamic-identity-night-v2.webp"
+    }
+  ],
+  "conditions": [
+    {
+      "category": "lighting",
+      "id": "lighting_warm",
+      "label": "Warm",
+      "title": "Warm lighting",
+      "description": "2700 K lighting preset.",
+      "images": {
+        "precision": "assets/perturbations/precision-lighting_warm.webp",
+        "recog": "assets/perturbations/recog-lighting_warm.webp",
+        "dynamic": "assets/perturbations/dynamic-lighting_warm.webp"
+      }
+    },
+    {
+      "category": "lighting",
+      "id": "lighting_cool",
+      "label": "Cool",
+      "title": "Cool lighting",
+      "description": "7500 K lighting preset.",
+      "images": {
+        "precision": "assets/perturbations/precision-lighting_cool.webp",
+        "recog": "assets/perturbations/recog-lighting_cool.webp",
+        "dynamic": "assets/perturbations/dynamic-lighting_cool.webp"
+      }
+    },
+    {
+      "category": "lighting",
+      "id": "lighting_fluorescent",
+      "label": "Fluorescent",
+      "title": "Fluorescent lighting",
+      "description": "Green-tinted indoor lighting.",
+      "images": {
+        "precision": "assets/perturbations/precision-lighting_fluorescent.webp",
+        "recog": "assets/perturbations/recog-lighting_fluorescent.webp",
+        "dynamic": "assets/perturbations/dynamic-lighting_fluorescent.webp"
+      }
+    },
+    {
+      "category": "lighting",
+      "id": "lighting_night",
+      "label": "Night",
+      "title": "Night lighting",
+      "description": "The benchmark’s night lighting preset.",
+      "images": {
+        "precision": "assets/perturbations/precision-lighting_night.webp",
+        "recog": "assets/perturbations/recog-lighting_night.webp",
+        "dynamic": "assets/perturbations/dynamic-lighting_night-v2.webp"
+      }
+    },
+    {
+      "category": "camera",
+      "id": "camera_left",
+      "label": "Left",
+      "title": "Camera · left",
+      "description": "45° yaw orbit to the left.",
+      "images": {
+        "precision": "assets/perturbations/precision-camera_left.webp",
+        "recog": "assets/perturbations/recog-camera_left.webp",
+        "dynamic": "assets/perturbations/dynamic-camera_left.webp"
+      }
+    },
+    {
+      "category": "camera",
+      "id": "camera_right",
+      "label": "Right",
+      "title": "Camera · right",
+      "description": "45° yaw orbit to the right.",
+      "images": {
+        "precision": "assets/perturbations/precision-camera_right.webp",
+        "recog": "assets/perturbations/recog-camera_right.webp",
+        "dynamic": "assets/perturbations/dynamic-camera_right.webp"
+      }
+    },
+    {
+      "category": "camera",
+      "id": "camera_high",
+      "label": "High",
+      "title": "Camera · high",
+      "description": "10° upward camera pitch.",
+      "images": {
+        "precision": "assets/perturbations/precision-camera_high.webp",
+        "recog": "assets/perturbations/recog-camera_high.webp",
+        "dynamic": "assets/perturbations/dynamic-camera_high.webp"
+      }
+    },
+    {
+      "category": "camera",
+      "id": "camera_low",
+      "label": "Low",
+      "title": "Camera · low",
+      "description": "10° downward camera pitch.",
+      "images": {
+        "precision": "assets/perturbations/precision-camera_low.webp",
+        "recog": "assets/perturbations/recog-camera_low.webp",
+        "dynamic": "assets/perturbations/dynamic-camera_low.webp"
+      }
+    },
+    {
+      "category": "camera",
+      "id": "camera_far_110",
+      "label": "Distance 1.10×",
+      "title": "Camera · distance 1.10×",
+      "description": "Camera orbit radius increased by 10%.",
+      "images": {
+        "precision": "assets/perturbations/precision-camera_far_110.webp",
+        "recog": "assets/perturbations/recog-camera_far_110.webp",
+        "dynamic": "assets/perturbations/dynamic-camera_far_110.webp"
+      }
+    },
+    {
+      "category": "camera",
+      "id": "camera_far_120",
+      "label": "Distance 1.20×",
+      "title": "Camera · distance 1.20×",
+      "description": "Camera orbit radius increased by 20%.",
+      "images": {
+        "precision": "assets/perturbations/precision-camera_far_120.webp",
+        "recog": "assets/perturbations/recog-camera_far_120.webp",
+        "dynamic": "assets/perturbations/dynamic-camera_far_120.webp"
+      }
+    },
+    {
+      "category": "scale",
+      "id": "scale_085",
+      "label": "Scale 0.85×",
+      "title": "Object scale · 0.85×",
+      "description": "Task geometry at 85% of nominal size.",
+      "images": {
+        "precision": "assets/perturbations/precision-scale_085.webp",
+        "recog": "assets/perturbations/recog-scale_085.webp",
+        "dynamic": "assets/perturbations/dynamic-scale_085.webp"
+      }
+    },
+    {
+      "category": "scale",
+      "id": "scale_090",
+      "label": "Scale 0.90×",
+      "title": "Object scale · 0.90×",
+      "description": "Task geometry at 90% of nominal size.",
+      "images": {
+        "precision": "assets/perturbations/precision-scale_090.webp",
+        "recog": "assets/perturbations/recog-scale_090.webp",
+        "dynamic": "assets/perturbations/dynamic-scale_090.webp"
+      }
+    }
+  ]
+}

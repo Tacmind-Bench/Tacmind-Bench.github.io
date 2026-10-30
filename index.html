@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="67WZ5YgDFh81TfvsbutUArLvLmjtQ2MKx9jYLynfd5Y">
+  <meta name="theme-color" content="#f6f9fb">
+  <meta name="description" content="TacMind: Benchmarking and Modeling Tactile Interaction States for Robotic Manipulation. Explore 128 tasks, GSmini and Daimon demonstrations, and benchmark results.">
+  <meta property="og:title" content="TacMind: Benchmarking and Modeling Tactile Interaction States for Robotic Manipulation">
+  <meta property="og:description" content="Benchmarking and modeling tactile interaction states for robotic manipulation. Explore tasks, sensor demonstrations, and benchmark results.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="TacMind">
+  <meta property="og:url" content="https://tacmind-bench.github.io/">
+  <link rel="canonical" href="https://tacmind-bench.github.io/">
+  <title>TacMind: Benchmarking and Modeling Tactile Interaction States for Robotic Manipulation</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js?v=20261031-leaderboard" defer></script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "TacMind",
+  "alternateName": "TacMind-Bench",
+  "url": "https://tacmind-bench.github.io/"
+}
+  </script>
+</head>
+<body>
+  <svg class="svg-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+    <symbol id="i-up-right" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol>
+    <symbol id="i-touch" viewBox="0 0 24 24"><path d="M4 12a8 8 0 0 1 16 0M7 14v-2a5 5 0 0 1 10 0v2M10 19v-7a2 2 0 0 1 4 0v5M4 15v2m3 0v3m10-3v3m3-5v2"/></symbol>
+    <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2 12s4-7 10-7 10 7 10 7-4 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></symbol>
+    <symbol id="i-expand" viewBox="0 0 24 24"><path d="M4 9V4h5m6 0h5v5M4 15v5h5m6 0h5v-5"/></symbol>
+  </svg>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav container" aria-label="Main navigation">
+      <a class="brand" href="#" aria-label="TacMind home"><span class="brand-icon"><svg><use href="#i-touch"/></svg></span>TacMind<span class="brand-period">.</span></a>
+      <div class="nav-links" id="nav-links"><a href="#demo">Demo</a><a href="#tasks">Tasks</a><a href="#perturbations">Perturbations</a><a href="#leaderboard">Leaderboard</a><a href="#news">News<span class="nav-dot"></span></a></div>
+      <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="nav-links"><span></span><span></span></button>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-aura" aria-hidden="true"></div>
+      <div class="container hero-copy">
+        <p class="eyebrow"><span class="status-dot"></span> THE TACMIND BENCHMARK</p>
+        <h1 id="hero-title"><span class="gradient-text">TacMind:</span> Benchmarking and Modeling Tactile Interaction States for Robotic Manipulation</h1>
+        <div class="paper-authors" aria-label="Authors">
+          <span>Jiaxin Shi<sup>1,4</sup></span><span>Zibin Wu<sup>2,4</sup></span><span>Yichi Zhang<sup>3,4</sup></span><span>Jianghua Duan<sup>4</sup></span><span>Siyu Zhu<sup>5</sup></span><span>Weihao Yuan<sup>4,6</sup></span>
+        </div>
+        <ul class="paper-affiliations" aria-label="Author affiliations">
+          <li><sup>1</sup><a href="https://sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiaotong University</a></li>
+          <li><sup>2</sup><a href="https://hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">The Hong Kong University of Science and Technology</a></li>
+          <li><sup>3</sup><a href="https://hit.edu.cn/" target="_blank" rel="noopener noreferrer">Harbin Institute of Technology</a></li>
+          <li><sup>4</sup><a href="https://dmrobot.com/" target="_blank" rel="noopener noreferrer">Daimon Robotics</a></li>
+          <li><sup>5</sup><a href="https://fudan.edu.cn/" target="_blank" rel="noopener noreferrer">Fudan University</a></li>
+          <li><sup>6</sup><a href="https://nju.edu.cn/" target="_blank" rel="noopener noreferrer">Nanjing University</a></li>
+        </ul>
+        <div class="paper-resources" id="paper-resources" role="group" aria-label="Paper and project resources">
+          <button class="resource-link" disabled><img src="assets/icons/paper.svg" width="20" height="20" alt="">Paper</button><button class="resource-link" disabled><img src="assets/icons/arxiv.svg" width="20" height="20" alt="">arXiv</button><a class="resource-link" href="https://modelscope.cn/datasets/shijiaxin/TacMind-Bench" target="_blank" rel="noopener noreferrer"><img src="assets/icons/modelscope.svg" width="20" height="20" alt="">ModelScope</a><a class="resource-link" href="https://huggingface.co/datasets/JiaxinShi/TacMind-Bench" target="_blank" rel="noopener noreferrer"><img src="assets/icons/huggingface.svg" width="20" height="20" alt="">Hugging Face</a><a class="resource-link" href="https://github.com/Tacmind-Bench/TacMind" target="_blank" rel="noopener noreferrer"><img src="assets/icons/github.svg" width="20" height="20" alt="">GitHub</a>
+        </div>
+      </div>
+      <div class="hero-stage container" id="demo">
+        <div class="stage-topline"><span><span class="status-dot"></span> A CLOSER LOOK AT CONTACT</span><span>ONE EPISODE. EIGHT VIEWS.</span></div>
+        <div class="hero-video-labels" aria-hidden="true"><span>External camera</span><span>Wrist camera</span><span>Touch <em>Left / Right</em></span></div>
+        <div class="hero-video-frame">
+          <video class="recording-video" src="assets/videos/hero.mp4" controls muted loop playsinline preload="metadata" data-lazy data-autoplay="true" aria-label="Synchronized whiteboard wiping: external and wrist cameras, left and right tactile RGB, markers, and deformation">Your browser does not support embedded video. <a href="assets/videos/hero.mp4">Download the demonstration.</a></video>
+          <div class="tactile-row-labels" aria-hidden="true"><span>RGB</span><span>Marker</span><span>Deformation</span></div>
+        </div>
+        <div class="stage-caption"><div><span class="caption-tag">LANGUAGE INSTRUCTION</span><p>“Grasp the felt eraser, erase the TacMind lettering from the rectangular whiteboard, then lift the eraser clear.”</p></div><button class="demo-details text-link" id="hero-details">Explore views <svg><use href="#i-up-right"/></svg></button></div>
+      </div>
+      <div class="stats container" aria-label="Benchmark at a glance">
+        <div><strong data-count="all">128</strong><span>Manipulation tasks</span><span class="stat-note"><span class="stat-component">Standard (<span data-count="core">28</span>)</span> + <span class="stat-component">Extra (<span data-count="extra">100</span>)</span></span></div>
+        <div><button class="stat-contact" data-open="contact-dialog" aria-haspopup="dialog"><strong data-contact-count>—</strong><span>Contact behaviors <span aria-hidden="true">↗</span></span></button></div>
+        <div><strong>4</strong><span>Task suites</span><span class="stat-note">Precision · Recog<br>Dynamic · Extra</span></div>
+        <div><strong data-objects>287</strong><details class="stat-detail"><summary>Object assets <span aria-hidden="true">↗</span></summary><p>Unique object assets, including targets and cut-food pieces. Scene fixtures are excluded.</p></details></div>
+      </div>
+      <a class="evaluation-summary container" href="#perturbations"><span class="evaluation-summary-title"><b data-perturbations>12</b> evaluation perturbations</span><span class="evaluation-summary-detail">Lighting (4) · Camera viewpoint (6) · Object scale (2)<small>Applied to Standard tasks</small></span><span class="evaluation-summary-link">Explore <span aria-hidden="true">→</span></span></a>
+    </section>
+
+
+
+    <section class="section tasks-section" id="tasks" aria-labelledby="tasks-title">
+      <div class="container">
+        <div class="section-heading heading-with-aside reveal"><div><h2 id="tasks-title">Robotic manipulation tasks</h2></div><p class="section-aside"><span data-total-inline>128</span> tasks across insertion, recognition, dynamic interaction, and more. Standard tasks include GSmini and Daimon sensor recordings.</p></div>
+        <div class="suite-tabs" role="group" aria-label="Filter tasks by suite"><button class="suite-tab active" data-suite="precision" aria-pressed="true">Precision <span data-count="precision">6</span></button><button class="suite-tab" data-suite="recog" aria-pressed="false">Recog <span data-count="recog">11</span></button><button class="suite-tab" data-suite="dynamic" aria-pressed="false">Dynamic <span data-count="dynamic">11</span></button><button class="suite-tab" data-suite="extra" aria-pressed="false">Extra <span data-count="extra">100</span></button><button class="suite-tab" data-suite="all" aria-pressed="false">All tasks <span data-count="all">128</span></button></div>
+        <div class="suite-spotlight" id="suite-spotlight"><div class="spotlight-copy"><span class="suite-kicker" id="suite-kicker">01 / PRECISION</span><h3 id="suite-title">Precision insertion</h3><p id="suite-description">Insert tubes, keys, connectors, gears, power plugs, and bulbs into their target fixtures.</p><div class="suite-tags" id="suite-tags"><span>Fine manipulation</span><span>Contact-rich insertion</span></div></div><figure class="spotlight-visual"><div id="suite-viewer" class="demo-viewer"></div><figcaption id="suite-caption">PRECISION 04 <span>Power plug insertion</span></figcaption></figure></div>
+        <div class="catalog-toolbar"><div class="catalog-summary"><p id="results-count" role="status" aria-live="polite">Loading task catalog…</p><div id="catalog-sensors" class="sensor-switcher" role="group" aria-label="Task preview sensor" hidden><span>Sensor</span><button type="button" data-sensor="gsmini" aria-pressed="true">GSmini</button><button type="button" data-sensor="daimon" aria-pressed="false">Daimon</button></div></div><label class="search-field"><svg><use href="#i-search"/></svg><input type="search" id="task-search" placeholder="Search tasks or instructions" aria-label="Search tasks or instructions" autocomplete="off"><kbd>/</kbd></label></div>
+        <div id="task-grid" class="task-grid" aria-label="Task results"></div>
+        <div id="catalog-empty" class="empty-state" hidden><svg><use href="#i-search"/></svg><h3>No matching tasks.</h3><p>Try a different keyword or explore all four suites.</p><button class="text-link" id="reset-search">Clear filters <svg><use href="#i-arrow"/></svg></button></div>
+        <div class="catalog-bottom"><button class="button button-outline" id="load-more" hidden>Show more tasks <svg><use href="#i-plus"/></svg></button></div>
+        <noscript><p>Enable JavaScript to browse and search the task collection.</p></noscript>
+      </div>
+    </section>
+
+
+
+    <section class="perturbations-section" id="perturbations" aria-labelledby="perturbations-title">
+      <div class="container">
+        <div class="perturbations-heading"><div><p class="eyebrow">EVALUATION CONDITIONS</p><h2 id="perturbations-title">Evaluation perturbations</h2></div><p>Evaluate trained policies under changes in lighting, camera viewpoint, and object scale.</p></div>
+        <div class="perturbation-categories" role="group" aria-label="Perturbation category"><button type="button" data-perturbation-category="lighting" aria-pressed="true">Lighting <span>4</span></button><button type="button" data-perturbation-category="camera" aria-pressed="false">Camera <span>6</span></button><button type="button" data-perturbation-category="scale" aria-pressed="false">Object scale <span>2</span></button></div>
+        <div class="perturbation-presets" id="perturbation-presets" role="group" aria-label="Lighting presets"></div>
+        <div class="perturbation-caption" aria-live="polite"><div><h3 id="perturbation-title">Warm lighting</h3><p id="perturbation-description">2700 K lighting preset.</p></div><p class="comparison-hint"><span aria-hidden="true">↔</span> Drag a divider to compare all three scenes.</p></div>
+        <div class="perturbation-grid" id="perturbation-grid"><p>Loading visual comparisons…</p></div>
+        <p class="perturbation-note">Left: nominal baseline. Right: selected perturbation. Each preview changes one condition at a time, across three Standard tasks. Static scenes · seed 0.</p>
+        <noscript><p>Enable JavaScript to explore the <a href="content/perturbations.json">12 perturbation presets</a>.</p></noscript>
+      </div>
+    </section>
+
+    <section class="leaderboard-section" id="leaderboard" aria-labelledby="leaderboard-title">
+      <div class="container">
+        <div class="leaderboard-heading"><div><p class="eyebrow">TACMIND-BENCH · GELSIGHT MINI</p><h2 id="leaderboard-title">Leaderboard</h2><p class="leaderboard-description">Performance across precision, recognition, and dynamic manipulation.</p></div><span class="sensor-badge">GSmini</span></div>
+        <div class="leaderboard-toolbar"><p id="leaderboard-order" role="status" aria-live="polite">Ranked by average OOD · Higher is better</p><div class="leaderboard-sort" role="group" aria-label="Rank leaderboard by"><span>Rank by</span><button type="button" data-ranking="ood" aria-pressed="true">Avg OOD</button><button type="button" data-ranking="ind" aria-pressed="false">Avg InD</button></div></div>
+        <div class="leaderboard-table-wrap" role="region" aria-label="Full benchmark results; scroll horizontally to see all metrics" tabindex="0">
+          <table class="leaderboard-table" aria-describedby="leaderboard-notes">
+            <caption>Performance on TacMind-Bench (GelSight Mini)</caption>
+            <colgroup><col></colgroup><colgroup span="4"></colgroup><colgroup span="4"></colgroup><colgroup span="4"></colgroup><colgroup span="2"></colgroup>
+            <thead><tr><th scope="col" rowspan="2">Model</th><th scope="colgroup" colspan="4">Precise</th><th scope="colgroup" colspan="4">Recognition</th><th scope="colgroup" colspan="4">Dynamic</th><th scope="colgroup" colspan="2" class="average-group">Avg</th></tr><tr><th scope="col">InD</th><th scope="col">Light</th><th scope="col">Cam</th><th scope="col">Size</th><th scope="col">InD</th><th scope="col">Light</th><th scope="col">Cam</th><th scope="col">Size</th><th scope="col">InD</th><th scope="col">Light</th><th scope="col">Cam</th><th scope="col">Size</th><th scope="col" data-average="ind">InD</th><th scope="col" data-average="ood" aria-sort="descending">OOD ↓</th></tr></thead>
+            <tbody id="leaderboard-body"><tr><td colspan="15">Loading benchmark results…</td></tr></tbody>
+          </table>
+        </div>
+        <p class="leaderboard-notes" id="leaderboard-notes"><span><strong>InD</strong> In-distribution</span><span><strong>OOD</strong> Out-of-distribution</span><span><strong>Light / Cam / Size</strong> Lighting, camera, and object-size perturbations</span></p>
+        <p class="leaderboard-training-note">ACT+Tactile and DP use single-task training: a separate policy is trained for each task.</p>
+        <p class="leaderboard-source">Results from the table. Bold values mark the best score in each column. <span class="table-scroll-hint">Scroll horizontally to explore all metrics.</span></p>
+        <noscript><p><a href="content/leaderboard.json">Read benchmark results.</a></p></noscript>
+      </div>
+    </section>
+
+    <section class="todo-section container" id="todo" aria-labelledby="todo-title">
+      <h2 id="todo-title">TODO</h2>
+      <div class="todo-content"><p>We will continue developing TacMind-Bench:</p><ul><li>Support a wider range of tactile sensors.</li><li>Design more tasks centered on tactile interaction.</li></ul></div>
+    </section>
+
+    <section class="news-section container" id="news" aria-labelledby="news-title"><div class="news-heading"><h2 id="news-title">News<span class="status-dot"></span></h2><p>Updates from TacMind.</p></div><ul id="news-list" class="news-list"><li>Loading updates…</li></ul><noscript><a href="content/news.json">Read project updates.</a></noscript></section>
+
+
+    <section class="acknowledgements-section container" id="acknowledgements" aria-labelledby="acknowledgements-title">
+      <h2 id="acknowledgements-title">Acknowledgements</h2>
+      <p>We thank the contributors to the following open-source projects for sharing their tools, datasets, models, and research with the robotics community.</p>
+      <ul class="acknowledgements-projects" aria-label="Acknowledged open-source projects">
+        <li><a href="https://github.com/isaac-sim/IsaacSim" target="_blank" rel="noopener noreferrer">Isaac Sim<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/isaac-sim/IsaacLab" target="_blank" rel="noopener noreferrer">Isaac Lab<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/NVlabs/curobo" target="_blank" rel="noopener noreferrer">cuRobo<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/newton-physics/newton" target="_blank" rel="noopener noreferrer">Newton<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/NVlabs/RoboLab" target="_blank" rel="noopener noreferrer">RoboLab<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/EmbodiedSWE/EmbodiedSWE" target="_blank" rel="noopener noreferrer">EmbodiedSWE<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://nathanwu7.github.io/Tabero/" target="_blank" rel="noopener noreferrer">Tabero<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/univtac/UniVTAC" target="_blank" rel="noopener noreferrer">UniVTAC<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/purdue-mars/manifeel" target="_blank" rel="noopener noreferrer">ManiFeel<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/huggingface/lerobot" target="_blank" rel="noopener noreferrer">LeRobot<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/Physical-Intelligence/openpi" target="_blank" rel="noopener noreferrer">OpenPI<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/dexmal/opendm" target="_blank" rel="noopener noreferrer">OpenDM<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/neoteai/N0-VTLA" target="_blank" rel="noopener noreferrer">N0-VTLA<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+        <li><a href="https://github.com/dmrobot-admin/Daimon-Infinity" target="_blank" rel="noopener noreferrer">Daimon-Infinity<svg aria-hidden="true"><use href="#i-up-right"/></svg></a></li>
+      </ul>
+    </section>
+
+  </main>
+  <footer class="site-footer container"><div class="footer-top"><a class="brand" href="#"><span class="brand-icon"><svg><use href="#i-touch"/></svg></span>TacMind<span class="brand-period">.</span></a><p>A richer sense of intelligence.</p><a class="text-link" href="#">Back to top ↑</a></div><div class="footer-bottom"><span>© 2026 TacMind contributors</span><span>Vision. Touch. Language.</span><button class="footer-link" data-open="status-dialog">Benchmark status</button></div></footer>
+
+  <dialog id="task-dialog" class="dialog task-dialog" aria-labelledby="task-dialog-title"><button class="dialog-close" aria-label="Close task details"><svg><use href="#i-close"/></svg></button><div id="task-dialog-content"></div></dialog>
+
+  <dialog id="perturbation-dialog" class="dialog perturbation-dialog" aria-labelledby="perturbation-dialog-title"><button class="dialog-close" aria-label="Close perturbation comparison"><svg><use href="#i-close"/></svg></button><h2 id="perturbation-dialog-title">Perturbation comparison</h2><p id="perturbation-dialog-description"></p><div id="perturbation-dialog-content"></div><p class="comparison-dialog-hint">Drag the divider, or use the arrow keys, to compare baseline and perturbation.</p></dialog>
+
+  <dialog id="contact-dialog" class="dialog contact-dialog" aria-labelledby="contact-title"><button class="dialog-close" aria-label="Close contact behaviors"><svg><use href="#i-close"/></svg></button><h2 id="contact-title">Contact behaviors</h2><p>Grouped by the actions in the task definitions. A task can involve several behaviors.</p><ul id="contact-behavior-list" class="contact-behavior-list"><li>Loading contact behaviors…</li></ul></dialog>
+
+  <dialog id="status-dialog" class="dialog" aria-labelledby="status-title">
+    <button class="dialog-close" aria-label="Close benchmark status"><svg><use href="#i-close"/></svg></button>
+    <p class="eyebrow">BENCHMARK STATUS</p>
+    <h2 id="status-title">Benchmark availability</h2>
+    <p class="dialog-intro">TacMind-Bench includes 128 manipulation tasks: 28 Standard tasks and 100 Extra tasks. Explore recorded demonstrations and evaluation perturbations on this website.</p>
+    <p>Find dataset releases on <a href="https://huggingface.co/datasets/JiaxinShi/TacMind-Bench" target="_blank" rel="noopener noreferrer">Hugging Face</a> and <a href="https://modelscope.cn/datasets/shijiaxin/TacMind-Bench" target="_blank" rel="noopener noreferrer">ModelScope</a>.</p>
+    <p>The benchmark is under active development. Code will be released progressively, with support for more tactile sensors and tasks. Follow the project on <a href="https://github.com/Tacmind-Bench/TacMind" target="_blank" rel="noopener noreferrer">GitHub</a> for updates.</p>
+  </dialog>
+</body>
+</html>

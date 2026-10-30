@@ -1,0 +1,507 @@
+{
+  "precision:0": {
+    "task_name": "tube_target_material_select_3",
+    "src": "assets/videos/daimon-precision000-external.mp4",
+    "frames": 295,
+    "fps": 20,
+    "duration": 14.75,
+    "success": true,
+    "depth_range_mm": [
+      -2.174010992050171,
+      2.174010992050171
+    ],
+    "views": {
+      "external": "assets/videos/daimon-precision000-external.mp4",
+      "wrist": "assets/videos/daimon-precision000-wrist.mp4",
+      "depth": "assets/videos/daimon-precision000-depth.mp4",
+      "deformation": "assets/videos/daimon-precision000-deformation.mp4"
+    }
+  },
+  "precision:1": {
+    "task_name": "key_target_material_select_3",
+    "src": "assets/videos/daimon-precision001-external.mp4",
+    "frames": 298,
+    "fps": 20,
+    "duration": 14.9,
+    "success": true,
+    "depth_range_mm": [
+      -0.22392506897449493,
+      0.22392506897449493
+    ],
+    "views": {
+      "external": "assets/videos/daimon-precision001-external.mp4",
+      "wrist": "assets/videos/daimon-precision001-wrist.mp4",
+      "depth": "assets/videos/daimon-precision001-depth.mp4",
+      "deformation": "assets/videos/daimon-precision001-deformation.mp4"
+    }
+  },
+  "precision:2": {
+    "task_name": "hdmi_target_material_select_3",
+    "src": "assets/videos/daimon-precision002-external.mp4",
+    "frames": 271,
+    "fps": 20,
+    "duration": 13.55,
+    "success": true,
+    "depth_range_mm": [
+      -1.9076546430587769,
+      1.9076546430587769
+    ],
+    "views": {
+      "external": "assets/videos/daimon-precision002-external.mp4",
+      "wrist": "assets/videos/daimon-precision002-wrist.mp4",
+      "depth": "assets/videos/daimon-precision002-depth.mp4",
+      "deformation": "assets/videos/daimon-precision002-deformation.mp4"
+    }
+  },
+  "precision:3": {
+    "task_name": "gear_target_material_select_3",
+    "src": "assets/videos/daimon-precision003-external.mp4",
+    "frames": 270,
+    "fps": 20,
+    "duration": 13.5,
+    "success": true,
+    "depth_range_mm": [
+      -1.6085004806518555,
+      1.6085004806518555
+    ],
+    "views": {
+      "external": "assets/videos/daimon-precision003-external.mp4",
+      "wrist": "assets/videos/daimon-precision003-wrist.mp4",
+      "depth": "assets/videos/daimon-precision003-depth.mp4",
+      "deformation": "assets/videos/daimon-precision003-deformation.mp4"
+    }
+  },
+  "recog:8": {
+    "task_name": "tactile_peg_reorientation",
+    "src": "assets/videos/daimon-recog008-external.mp4",
+    "frames": 278,
+    "fps": 20,
+    "duration": 13.9,
+    "success": true,
+    "depth_range_mm": [
+      -0.820879340171814,
+      0.820879340171814
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog008-external.mp4",
+      "wrist": "assets/videos/daimon-recog008-wrist.mp4",
+      "depth": "assets/videos/daimon-recog008-depth.mp4",
+      "deformation": "assets/videos/daimon-recog008-deformation.mp4"
+    }
+  },
+  "recog:9": {
+    "task_name": "tactile_object_search",
+    "src": "assets/videos/daimon-recog009-external.mp4",
+    "frames": 118,
+    "fps": 20,
+    "duration": 5.9,
+    "success": true,
+    "depth_range_mm": [
+      -1.6143921613693237,
+      1.6143921613693237
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog009-external.mp4",
+      "wrist": "assets/videos/daimon-recog009-wrist.mp4",
+      "depth": "assets/videos/daimon-recog009-depth.mp4",
+      "deformation": "assets/videos/daimon-recog009-deformation.mp4"
+    }
+  },
+  "recog:10": {
+    "task_name": "tactile_ball_sorting",
+    "src": "assets/videos/daimon-recog010-external.mp4",
+    "frames": 225,
+    "fps": 20,
+    "duration": 11.25,
+    "success": true,
+    "depth_range_mm": [
+      -0.34303104877471924,
+      0.34303104877471924
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog010-external.mp4",
+      "wrist": "assets/videos/daimon-recog010-wrist.mp4",
+      "depth": "assets/videos/daimon-recog010-depth.mp4",
+      "deformation": "assets/videos/daimon-recog010-deformation.mp4"
+    }
+  },
+  "precision:4": {
+    "task_name": "tactile_power_insertion",
+    "src": "assets/videos/daimon-precision004-external.mp4",
+    "frames": 133,
+    "fps": 20,
+    "duration": 6.65,
+    "success": true,
+    "depth_range_mm": [
+      -3.574549913406372,
+      3.574549913406372
+    ],
+    "views": {
+      "external": "assets/videos/daimon-precision004-external.mp4",
+      "wrist": "assets/videos/daimon-precision004-wrist.mp4",
+      "depth": "assets/videos/daimon-precision004-depth.mp4",
+      "deformation": "assets/videos/daimon-precision004-deformation.mp4"
+    }
+  },
+  "precision:5": {
+    "task_name": "tactile_bulb_insertion",
+    "src": "assets/videos/daimon-precision005-external.mp4",
+    "frames": 870,
+    "fps": 20,
+    "duration": 43.5,
+    "success": true,
+    "depth_range_mm": [
+      -4.881817817687988,
+      4.881817817687988
+    ],
+    "views": {
+      "external": "assets/videos/daimon-precision005-external.mp4",
+      "wrist": "assets/videos/daimon-precision005-wrist.mp4",
+      "depth": "assets/videos/daimon-precision005-depth.mp4",
+      "deformation": "assets/videos/daimon-precision005-deformation.mp4"
+    }
+  },
+  "recog:0": {
+    "task_name": "select_m16_nut_from_covered_tray",
+    "src": "assets/videos/daimon-recog000-external.mp4",
+    "frames": 273,
+    "fps": 20,
+    "duration": 13.65,
+    "success": true,
+    "depth_range_mm": [
+      -2.791606903076172,
+      2.791606903076172
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog000-external.mp4",
+      "wrist": "assets/videos/daimon-recog000-wrist.mp4",
+      "depth": "assets/videos/daimon-recog000-depth.mp4",
+      "deformation": "assets/videos/daimon-recog000-deformation.mp4"
+    }
+  },
+  "recog:1": {
+    "task_name": "select_golf_ball_by_touch_in_bin",
+    "src": "assets/videos/daimon-recog001-external.mp4",
+    "frames": 236,
+    "fps": 20,
+    "duration": 11.8,
+    "success": true,
+    "depth_range_mm": [
+      -1.632361650466919,
+      1.632361650466919
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog001-external.mp4",
+      "wrist": "assets/videos/daimon-recog001-wrist.mp4",
+      "depth": "assets/videos/daimon-recog001-depth.mp4",
+      "deformation": "assets/videos/daimon-recog001-deformation.mp4"
+    }
+  },
+  "recog:2": {
+    "task_name": "retrieve_toothed_service_token_from_toolbox",
+    "src": "assets/videos/daimon-recog002-external.mp4",
+    "frames": 287,
+    "fps": 20,
+    "duration": 14.35,
+    "success": true,
+    "depth_range_mm": [
+      -1.6303497552871704,
+      1.6303497552871704
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog002-external.mp4",
+      "wrist": "assets/videos/daimon-recog002-wrist.mp4",
+      "depth": "assets/videos/daimon-recog002-depth.mp4",
+      "deformation": "assets/videos/daimon-recog002-deformation.mp4"
+    }
+  },
+  "recog:3": {
+    "task_name": "select_horizontal_ribbed_cap_by_touch",
+    "src": "assets/videos/daimon-recog003-external.mp4",
+    "frames": 282,
+    "fps": 20,
+    "duration": 14.1,
+    "success": true,
+    "depth_range_mm": [
+      -0.45169275999069214,
+      0.45169275999069214
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog003-external.mp4",
+      "wrist": "assets/videos/daimon-recog003-wrist.mp4",
+      "depth": "assets/videos/daimon-recog003-depth.mp4",
+      "deformation": "assets/videos/daimon-recog003-deformation.mp4"
+    }
+  },
+  "recog:4": {
+    "task_name": "select_golf_ball_by_touch",
+    "src": "assets/videos/daimon-recog004-external.mp4",
+    "frames": 283,
+    "fps": 20,
+    "duration": 14.15,
+    "success": true,
+    "depth_range_mm": [
+      -1.5337159633636475,
+      1.5337159633636475
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog004-external.mp4",
+      "wrist": "assets/videos/daimon-recog004-wrist.mp4",
+      "depth": "assets/videos/daimon-recog004-depth.mp4",
+      "deformation": "assets/videos/daimon-recog004-deformation.mp4"
+    }
+  },
+  "recog:5": {
+    "task_name": "select_cylinder_with_most_circumferential_threads",
+    "src": "assets/videos/daimon-recog005-external.mp4",
+    "frames": 904,
+    "fps": 20,
+    "duration": 45.2,
+    "success": true,
+    "depth_range_mm": [
+      -0.6084901690483093,
+      0.6084901690483093
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog005-external.mp4",
+      "wrist": "assets/videos/daimon-recog005-wrist.mp4",
+      "depth": "assets/videos/daimon-recog005-depth.mp4",
+      "deformation": "assets/videos/daimon-recog005-deformation.mp4"
+    }
+  },
+  "recog:6": {
+    "task_name": "select_wave_service_token",
+    "src": "assets/videos/daimon-recog006-external.mp4",
+    "frames": 351,
+    "fps": 20,
+    "duration": 17.55,
+    "success": true,
+    "depth_range_mm": [
+      -1.6742198467254639,
+      1.6742198467254639
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog006-external.mp4",
+      "wrist": "assets/videos/daimon-recog006-wrist.mp4",
+      "depth": "assets/videos/daimon-recog006-depth.mp4",
+      "deformation": "assets/videos/daimon-recog006-deformation.mp4"
+    }
+  },
+  "recog:7": {
+    "task_name": "select_horizontal_ribbed_cap_into_bowl",
+    "src": "assets/videos/daimon-recog007-external.mp4",
+    "frames": 294,
+    "fps": 20,
+    "duration": 14.7,
+    "success": true,
+    "depth_range_mm": [
+      -2.0913355350494385,
+      2.0913355350494385
+    ],
+    "views": {
+      "external": "assets/videos/daimon-recog007-external.mp4",
+      "wrist": "assets/videos/daimon-recog007-wrist.mp4",
+      "depth": "assets/videos/daimon-recog007-depth.mp4",
+      "deformation": "assets/videos/daimon-recog007-deformation.mp4"
+    }
+  },
+  "dynamic:0": {
+    "task_name": "insert_the_held_power_plug_into_the_moving_socket",
+    "src": "assets/videos/daimon-dynamic000-external.mp4",
+    "frames": 151,
+    "fps": 20,
+    "duration": 7.55,
+    "success": true,
+    "depth_range_mm": [
+      -4.338113784790039,
+      4.338113784790039
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic000-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic000-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic000-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic000-deformation.mp4"
+    }
+  },
+  "dynamic:1": {
+    "task_name": "insert_the_held_bulb_into_the_moving_socket",
+    "src": "assets/videos/daimon-dynamic001-external.mp4",
+    "frames": 384,
+    "fps": 20,
+    "duration": 19.2,
+    "success": true,
+    "depth_range_mm": [
+      -3.0505142211914062,
+      3.0505142211914062
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic001-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic001-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic001-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic001-deformation.mp4"
+    }
+  },
+  "dynamic:2": {
+    "task_name": "insert_the_held_usb_plug_into_the_moving_socket",
+    "src": "assets/videos/daimon-dynamic002-external.mp4",
+    "frames": 480,
+    "fps": 20,
+    "duration": 24.0,
+    "success": false,
+    "depth_range_mm": [
+      -0.5487996339797974,
+      0.5487996339797974
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic002-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic002-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic002-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic002-deformation.mp4"
+    },
+    "outcome_note": "Grasp lost during insertion."
+  },
+  "dynamic:3": {
+    "task_name": "pick_table_tube_and_insert_into_moving_fixture",
+    "src": "assets/videos/daimon-dynamic003-external.mp4",
+    "frames": 179,
+    "fps": 20,
+    "duration": 8.95,
+    "success": true,
+    "depth_range_mm": [
+      -2.096057176589966,
+      2.096057176589966
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic003-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic003-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic003-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic003-deformation.mp4"
+    }
+  },
+  "dynamic:4": {
+    "task_name": "pick_tube_from_moving_source_and_insert_into_table_fixture",
+    "src": "assets/videos/daimon-dynamic004-external.mp4",
+    "frames": 250,
+    "fps": 20,
+    "duration": 12.5,
+    "success": true,
+    "depth_range_mm": [
+      -0.7409327626228333,
+      0.7409327626228333
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic004-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic004-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic004-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic004-deformation.mp4"
+    }
+  },
+  "dynamic:5": {
+    "task_name": "pick_table_key_and_insert_into_moving_fixture",
+    "src": "assets/videos/daimon-dynamic005-external.mp4",
+    "frames": 284,
+    "fps": 20,
+    "duration": 14.2,
+    "success": true,
+    "depth_range_mm": [
+      -0.14903496205806732,
+      0.14903496205806732
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic005-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic005-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic005-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic005-deformation.mp4"
+    }
+  },
+  "dynamic:6": {
+    "task_name": "pick_key_from_moving_source_and_insert_into_table_fixture",
+    "src": "assets/videos/daimon-dynamic006-external.mp4",
+    "frames": 273,
+    "fps": 20,
+    "duration": 13.65,
+    "success": true,
+    "depth_range_mm": [
+      -0.2912246286869049,
+      0.2912246286869049
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic006-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic006-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic006-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic006-deformation.mp4"
+    }
+  },
+  "dynamic:7": {
+    "task_name": "pick_table_hdmi_and_insert_into_moving_fixture",
+    "src": "assets/videos/daimon-dynamic007-external.mp4",
+    "frames": 226,
+    "fps": 20,
+    "duration": 11.3,
+    "success": true,
+    "depth_range_mm": [
+      -0.5551127195358276,
+      0.5551127195358276
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic007-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic007-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic007-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic007-deformation.mp4"
+    }
+  },
+  "dynamic:8": {
+    "task_name": "pick_hdmi_from_moving_source_and_insert_into_table_fixture",
+    "src": "assets/videos/daimon-dynamic008-external.mp4",
+    "frames": 268,
+    "fps": 20,
+    "duration": 13.4,
+    "success": true,
+    "depth_range_mm": [
+      -0.8402158617973328,
+      0.8402158617973328
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic008-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic008-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic008-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic008-deformation.mp4"
+    }
+  },
+  "dynamic:9": {
+    "task_name": "pick_table_gear_and_insert_into_moving_fixture",
+    "src": "assets/videos/daimon-dynamic009-external.mp4",
+    "frames": 266,
+    "fps": 20,
+    "duration": 13.3,
+    "success": true,
+    "depth_range_mm": [
+      -2.5994837284088135,
+      2.5994837284088135
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic009-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic009-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic009-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic009-deformation.mp4"
+    }
+  },
+  "dynamic:10": {
+    "task_name": "pick_gear_from_moving_source_and_insert_into_table_fixture",
+    "src": "assets/videos/daimon-dynamic010-external.mp4",
+    "frames": 292,
+    "fps": 20,
+    "duration": 14.6,
+    "success": true,
+    "depth_range_mm": [
+      -2.1058566570281982,
+      2.1058566570281982
+    ],
+    "views": {
+      "external": "assets/videos/daimon-dynamic010-external.mp4",
+      "wrist": "assets/videos/daimon-dynamic010-wrist.mp4",
+      "depth": "assets/videos/daimon-dynamic010-depth.mp4",
+      "deformation": "assets/videos/daimon-dynamic010-deformation.mp4"
+    }
+  }
+}
